@@ -30,7 +30,7 @@ warnings.filterwarnings("ignore")
 
 # --- App Title ---
 st.set_page_config(layout="wide")
-st.title("📈 Personal Expense Analyzer & Predictor ")
+st.title("📈SpendSight: Personal Expense Analyzer & Predictor ")
 st.write("""
 This app demonstrates the 7-stage Data Science process. You can either **generate
 synthetic data** or **upload your own expense file** (CSV, Excel, or JSON).
