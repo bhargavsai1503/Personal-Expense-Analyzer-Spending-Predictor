@@ -4,7 +4,7 @@ An interactive Streamlit app that demonstrates the 7-stage data science process.
 
 ## 🚀 Live App
 
-[**Click here to try the live app!**](https://www.google.com/search?q=https://spendsight.streamlit.app/)
+[**Click here to try the live app!**](https://spendsight.streamlit.app/)
 
 *(Note: The app may take a moment to load if it's waking from sleep.)*
 
