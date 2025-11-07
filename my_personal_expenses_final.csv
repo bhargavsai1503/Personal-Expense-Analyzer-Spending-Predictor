@@ -1,0 +1,1337 @@
+Transaction_ID,Date,Amount,Category,Sub_Category,Payment_Method,Vendor
+T2025915,2023-01-01,90.67,Other,Health,Cash,Misc
+T2025652,2023-01-01,1503.84,Housing,Rent,Debit Card,Landlord
+T2025391,2023-01-01,55.59,Food,Groceries,Debit Card,Local Supermarket
+T2026043,2023-01-02,30.13,Transport,Gas,Debit Card,Shell
+T2025542,2023-01-02,218.72,Personal,Entertainment,Cash,Planet Fitness
+T2025307,2023-01-03,62.25,Other,Health,Credit Card,Misc
+T2026241,2023-01-04,127.62,Food,Groceries,Debit Card,Local Supermarket
+T2025280,2023-01-04,119.37,Personal,Shopping,Debit Card,Netflix
+T2025015,2023-01-05,138.12,Personal,Entertainment,Online Transfer,Netflix
+T2026270,2023-01-06,14.1,Food,Dining Out,Online Transfer,Local Supermarket
+T2025427,2023-01-07,35.47,Other,Miscellaneous,Debit Card,Misc
+T2025747,2023-01-07,134.19,Food,Groceries,Debit Card,Local Supermarket
+T2025009,2023-01-08,26.93,Other,Health,Credit Card,Gifts.com
+T2025096,2023-01-08,120.08,Personal,Shopping,Online Transfer,Netflix
+T2026179,2023-01-09,108.52,Personal,Shopping,Online Transfer,H&M
+T2026051,2023-01-09,83.38,Food,Groceries,Online Transfer,Uber Eats
+T2026218,2023-01-10,41.96,Transport,Gas,Online Transfer,Lyft
+T2025356,2023-01-11,19.57,Personal,Entertainment,Credit Card,H&M
+T2025013,2023-01-12,98.67,Food,Dining Out,Credit Card,Starbucks
+T2025141,2023-01-12,158.96,Personal,Entertainment,Debit Card,Planet Fitness
+T2026239,2023-01-13,1190.22,Housing,Utilities,Debit Card,City Power
+T2025259,2023-01-14,53.43,Other,Miscellaneous,Credit Card,CVS
+T2025055,2023-01-16,59.53,Food,Groceries,Online Transfer,Downtown Diner
+T2025453,2023-01-17,237.51,Personal,Gym,Debit Card,H&M
+T2025848,2023-01-18,50.4,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2026022,2023-01-19,1705.59,Housing,Insurance,Online Transfer,City Power
+T2025973,2023-01-19,78.49,Food,Delivery,Credit Card,Uber Eats
+T2025868,2023-01-20,29.14,Transport,Taxi/Rideshare,Credit Card,Metro
+T2025008,2023-01-21,91.97,Food,Coffee,Cash,Local Supermarket
+T2025664,2023-01-21,36.57,Transport,Taxi/Rideshare,Online Transfer,Uber
+T2025176,2023-01-22,1651.62,Housing,Utilities,Online Transfer,State Farm
+T2026184,2023-01-23,41.77,Other,Miscellaneous,Online Transfer,CVS
+T2025180,2023-01-24,24.42,Transport,Taxi/Rideshare,Online Transfer,Metro
+T2025326,2023-01-24,95.53,Food,Coffee,Debit Card,Uber Eats
+T2025187,2023-01-24,1409.72,Housing,Insurance,Cash,City Power
+T2026463,2023-01-24,93.1,Other,Health,Online Transfer,CVS
+T2025303,2023-01-24,54.5,Transport,Gas,Cash,Lyft
+T2025982,2023-01-25,148.77,Food,Coffee,Cash,Downtown Diner
+T2025765,2023-01-26,625.49,Housing,Utilities,Online Transfer,Landlord
+T2025433,2023-01-26,61.02,Other,Miscellaneous,Debit Card,Misc
+T2025162,2023-01-27,1981.21,Housing,Utilities,Credit Card,Landlord
+T2025896,2023-01-27,859.62,Housing,Insurance,Online Transfer,City Power
+T2025310,2023-01-29,55.92,Personal,Shopping,Credit Card,Netflix
+T2025107,2023-01-29,36.55,Transport,Taxi/Rideshare,Credit Card,Uber
+T2025325,2023-01-30,582.74,Housing,Insurance,Debit Card,State Farm
+T2026000,2023-01-31,48.35,Transport,Public Transit,Credit Card,Shell
+T2025874,2023-01-31,68.08,Other,Gifts,Cash,Gifts.com
+T2026441,2023-02-01,526.37,Housing,Utilities,Debit Card,Landlord
+T2025624,2023-02-01,1515.88,Housing,Rent,Credit Card,City Power
+T2026072,2023-02-02,36.17,Food,Delivery,Debit Card,Local Supermarket
+T2026244,2023-02-03,147.91,Food,Groceries,Cash,Local Supermarket
+T2025252,2023-02-03,41.55,Other,Health,Online Transfer,Gifts.com
+T2025384,2023-02-03,113.93,Food,Delivery,Credit Card,Local Supermarket
+T2026338,2023-02-03,145.53,Food,Dining Out,Debit Card,Downtown Diner
+T2025018,2023-02-03,103.59,Personal,Shopping,Debit Card,Planet Fitness
+T2026317,2023-02-04,16.47,Food,Coffee,Debit Card,Starbucks
+T2026210,2023-02-05,47.39,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2025170,2023-02-05,106.8,Food,Coffee,Cash,Uber Eats
+T2025590,2023-02-05,22.91,Other,Miscellaneous,Debit Card,Misc
+T2026329,2023-02-06,44.92,Other,Health,Debit Card,CVS
+T2025661,2023-02-07,71.42,Other,Health,Cash,Gifts.com
+T2026007,2023-02-08,28.35,Transport,Taxi/Rideshare,Online Transfer,Metro
+T2026158,2023-02-08,69.84,Other,Miscellaneous,Debit Card,Misc
+T2025179,2023-02-10,134.26,Personal,Shopping,Credit Card,H&M
+T2025622,2023-02-10,47.44,Other,Health,Debit Card,CVS
+T2025014,2023-02-10,144.32,Personal,Entertainment,Online Transfer,Amazon
+T2025412,2023-02-11,35.36,Food,Dining Out,Online Transfer,Starbucks
+T2025403,2023-02-11,133.77,Personal,Subscription,Credit Card,H&M
+T2025762,2023-02-12,26.68,Transport,Gas,Cash,Uber
+T2025138,2023-02-15,54.64,Other,Gifts,Online Transfer,CVS
+T2026486,2023-02-15,114.01,Personal,Subscription,Credit Card,Amazon
+T2025263,2023-02-15,26.67,Other,Health,Cash,CVS
+T2025537,2023-02-15,118.11,Personal,Gym,Debit Card,Planet Fitness
+T2025019,2023-02-15,69.06,Food,Delivery,Cash,Downtown Diner
+T2025281,2023-02-17,93.7,Other,Health,Online Transfer,Misc
+T2025759,2023-02-17,1497.38,Housing,Utilities,Cash,City Power
+T2025886,2023-02-19,90.64,Other,Health,Online Transfer,CVS
+T2025091,2023-02-20,123.5,Food,Coffee,Credit Card,Local Supermarket
+T2025157,2023-02-20,1165.21,Housing,Insurance,Debit Card,City Power
+T2026050,2023-02-20,33.76,Other,Miscellaneous,Credit Card,Misc
+T2026398,2023-02-21,99.32,Personal,Gym,Debit Card,H&M
+T2025117,2023-02-21,74.79,Food,Coffee,Credit Card,Starbucks
+T2026206,2023-02-22,55.91,Transport,Gas,Cash,Shell
+T2025882,2023-02-22,142.71,Personal,Subscription,Online Transfer,Amazon
+T2025408,2023-02-23,64.94,Transport,Public Transit,Credit Card,Metro
+T2025425,2023-02-23,961.79,Housing,Insurance,Credit Card,City Power
+T2025036,2023-02-23,41.32,Personal,Shopping,Credit Card,H&M
+T2025333,2023-02-23,58.08,Other,Miscellaneous,Debit Card,Misc
+T2025232,2023-02-24,41.34,Transport,Public Transit,Online Transfer,Lyft
+T2026307,2023-02-24,18.82,Transport,Gas,Credit Card,Lyft
+T2025341,2023-02-25,32.28,Other,Gifts,Credit Card,Gifts.com
+T2025722,2023-02-25,6.36,Food,Coffee,Credit Card,Uber Eats
+T2026423,2023-02-26,73.29,Other,Health,Credit Card,CVS
+T2026173,2023-02-26,89.52,Other,Miscellaneous,Debit Card,Misc
+T2025560,2023-02-26,64.59,Transport,Gas,Credit Card,Metro
+T2025121,2023-02-26,5.98,Food,Groceries,Debit Card,Local Supermarket
+T2025402,2023-02-26,64.58,Transport,Public Transit,Online Transfer,Shell
+T2025377,2023-02-28,15.96,Food,Dining Out,Online Transfer,Uber Eats
+T2026432,2023-02-28,195.79,Personal,Entertainment,Cash,Netflix
+T2025085,2023-03-01,19.83,Food,Coffee,Cash,Uber Eats
+T2025050,2023-03-01,1474.22,Housing,Rent,Cash,City Power
+T2025820,2023-03-02,41.16,Other,Gifts,Online Transfer,Gifts.com
+T2025466,2023-03-02,169.77,Personal,Gym,Credit Card,Netflix
+T2025833,2023-03-03,1201.48,Housing,Utilities,Credit Card,City Power
+T2025804,2023-03-04,122.27,Food,Delivery,Credit Card,Local Supermarket
+T2026458,2023-03-05,187.0,Personal,Subscription,Cash,H&M
+T2025993,2023-03-05,1661.32,Housing,Utilities,Credit Card,Landlord
+T2025509,2023-03-06,10.55,Other,Gifts,Cash,Misc
+T2026074,2023-03-07,63.26,Other,Health,Debit Card,CVS
+T2026078,2023-03-07,110.54,Personal,Entertainment,Debit Card,Planet Fitness
+T2026160,2023-03-08,69.43,Food,Groceries,Cash,Downtown Diner
+T2025413,2023-03-09,1840.38,Housing,Insurance,Credit Card,Landlord
+T2025441,2023-03-09,49.17,Transport,Taxi/Rideshare,Online Transfer,Metro
+T2025308,2023-03-10,1405.77,Housing,Utilities,Credit Card,Landlord
+T2025683,2023-03-11,98.13,Other,Health,Credit Card,CVS
+T2026422,2023-03-12,1903.49,Housing,Utilities,Credit Card,Landlord
+T2026262,2023-03-12,52.58,Transport,Gas,Online Transfer,Shell
+T2025048,2023-03-12,112.16,Food,Groceries,Credit Card,Starbucks
+T2025209,2023-03-12,144.41,Food,Delivery,Online Transfer,Local Supermarket
+T2025197,2023-03-14,66.72,Other,Gifts,Cash,Misc
+T2025753,2023-03-15,1014.03,Housing,Insurance,Debit Card,City Power
+T2026407,2023-03-16,124.48,Personal,Entertainment,Online Transfer,Netflix
+T2025268,2023-03-16,30.53,Food,Groceries,Online Transfer,Uber Eats
+T2025194,2023-03-16,107.96,Food,Dining Out,Credit Card,Uber Eats
+T2026395,2023-03-17,48.97,Food,Dining Out,Credit Card,Local Supermarket
+T2025072,2023-03-18,36.81,Transport,Taxi/Rideshare,Cash,Lyft
+T2026484,2023-03-20,23.13,Other,Gifts,Credit Card,Misc
+T2025745,2023-03-20,1250.4,Housing,Insurance,Cash,City Power
+T2025254,2023-03-20,23.07,Other,Miscellaneous,Debit Card,Gifts.com
+T2025888,2023-03-21,658.06,Housing,Insurance,Credit Card,City Power
+T2025569,2023-03-21,46.02,Food,Groceries,Online Transfer,Downtown Diner
+T2026498,2023-03-21,122.46,Personal,Subscription,Debit Card,Amazon
+T2026138,2023-03-21,36.12,Other,Health,Cash,Gifts.com
+T2025934,2023-03-22,121.35,Food,Delivery,Debit Card,Uber Eats
+T2026274,2023-03-22,17.06,Other,Health,Online Transfer,Gifts.com
+T2025278,2023-03-24,36.54,Other,Health,Cash,Misc
+T2025567,2023-03-25,38.39,Transport,Taxi/Rideshare,Online Transfer,Uber
+T2025637,2023-03-25,91.28,Other,Miscellaneous,Online Transfer,Gifts.com
+T2025903,2023-03-26,23.51,Transport,Gas,Credit Card,Lyft
+T2025857,2023-03-26,14.28,Other,Miscellaneous,Debit Card,CVS
+T2025635,2023-03-26,54.54,Transport,Public Transit,Debit Card,Metro
+T2026002,2023-03-27,114.8,Food,Delivery,Debit Card,Starbucks
+T2025182,2023-03-28,1621.7,Housing,Insurance,Debit Card,City Power
+T2025794,2023-03-29,124.83,Food,Delivery,Cash,Starbucks
+T2025725,2023-03-31,66.42,Transport,Gas,Online Transfer,Uber
+T2026365,2023-03-31,124.39,Personal,Subscription,Online Transfer,H&M
+T2025785,2023-03-31,58.15,Other,Health,Online Transfer,Misc
+T2025201,2023-04-01,67.51,Personal,Entertainment,Debit Card,Planet Fitness
+T2025718,2023-04-01,7.58,Food,Coffee,Debit Card,Local Supermarket
+T2025910,2023-04-01,21.34,Transport,Gas,Cash,Lyft
+T2025609,2023-04-01,1451.07,Housing,Rent,Credit Card,City Power
+T2025877,2023-04-02,1418.65,Housing,Insurance,Debit Card,State Farm
+T2026373,2023-04-02,81.33,Other,Health,Online Transfer,CVS
+T2025940,2023-04-04,27.18,Transport,Public Transit,Cash,Shell
+T2026405,2023-04-04,136.52,Food,Delivery,Debit Card,Local Supermarket
+T2025769,2023-04-05,7.54,Food,Coffee,Debit Card,Downtown Diner
+T2026346,2023-04-05,39.66,Food,Groceries,Online Transfer,Uber Eats
+T2026128,2023-04-06,74.81,Food,Dining Out,Online Transfer,Downtown Diner
+T2025192,2023-04-06,124.19,Food,Groceries,Credit Card,Downtown Diner
+T2025773,2023-04-07,1357.97,Housing,Utilities,Online Transfer,City Power
+T2025111,2023-04-07,186.43,Personal,Entertainment,Debit Card,H&M
+T2025347,2023-04-07,49.4,Transport,Gas,Cash,Shell
+T2025040,2023-04-08,1635.31,Housing,Utilities,Online Transfer,City Power
+T2025719,2023-04-08,1386.65,Housing,Insurance,Online Transfer,State Farm
+T2025244,2023-04-09,94.98,Other,Gifts,Online Transfer,CVS
+T2025958,2023-04-09,58.37,Transport,Public Transit,Cash,Metro
+T2025733,2023-04-10,57.95,Other,Health,Cash,Gifts.com
+T2026023,2023-04-11,23.84,Other,Miscellaneous,Credit Card,Gifts.com
+T2025900,2023-04-11,1906.68,Housing,Insurance,Debit Card,Landlord
+T2026336,2023-04-11,35.04,Food,Groceries,Online Transfer,Downtown Diner
+T2026016,2023-04-11,30.55,Food,Coffee,Credit Card,Starbucks
+T2025031,2023-04-11,44.1,Transport,Public Transit,Credit Card,Lyft
+T2025414,2023-04-12,249.57,Personal,Entertainment,Debit Card,Amazon
+T2025348,2023-04-12,46.99,Food,Groceries,Debit Card,Downtown Diner
+T2026403,2023-04-13,45.74,Transport,Taxi/Rideshare,Credit Card,Uber
+T2026457,2023-04-14,70.4,Other,Health,Debit Card,Misc
+T2025146,2023-04-14,1831.32,Housing,Utilities,Online Transfer,State Farm
+T2026080,2023-04-15,86.69,Other,Health,Credit Card,Gifts.com
+T2025639,2023-04-15,17.08,Transport,Taxi/Rideshare,Credit Card,Metro
+T2026393,2023-04-15,63.9,Personal,Shopping,Cash,H&M
+T2025017,2023-04-16,1938.34,Housing,Utilities,Online Transfer,State Farm
+T2025601,2023-04-16,22.95,Food,Coffee,Online Transfer,Local Supermarket
+T2025416,2023-04-16,1046.02,Housing,Insurance,Online Transfer,Landlord
+T2026114,2023-04-17,23.38,Food,Coffee,Cash,Uber Eats
+T2025975,2023-04-19,84.02,Food,Coffee,Cash,Downtown Diner
+T2026224,2023-04-19,936.71,Housing,Utilities,Cash,State Farm
+T2025595,2023-04-19,28.61,Other,Health,Credit Card,CVS
+T2025342,2023-04-19,38.31,Transport,Gas,Online Transfer,Uber
+T2025288,2023-04-20,26.0,Food,Dining Out,Credit Card,Downtown Diner
+T2026082,2023-04-20,583.27,Housing,Utilities,Online Transfer,State Farm
+T2026331,2023-04-21,141.87,Food,Delivery,Credit Card,Uber Eats
+T2025134,2023-04-21,206.79,Personal,Shopping,Credit Card,Planet Fitness
+T2025123,2023-04-21,44.95,Other,Health,Cash,CVS
+T2025669,2023-04-22,53.26,Other,Health,Credit Card,CVS
+T2026289,2023-04-24,89.24,Food,Groceries,Cash,Uber Eats
+T2026116,2023-04-25,103.48,Food,Coffee,Debit Card,Downtown Diner
+T2026192,2023-04-25,16.59,Transport,Taxi/Rideshare,Online Transfer,Metro
+T2025332,2023-04-26,35.38,Food,Dining Out,Online Transfer,Downtown Diner
+T2025127,2023-04-26,62.18,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2025404,2023-04-28,44.19,Transport,Public Transit,Cash,Shell
+T2025164,2023-04-29,75.42,Other,Miscellaneous,Credit Card,Gifts.com
+T2025237,2023-04-29,92.04,Other,Health,Credit Card,CVS
+T2025231,2023-04-29,66.86,Transport,Taxi/Rideshare,Credit Card,Lyft
+T2025707,2023-04-30,54.53,Other,Miscellaneous,Debit Card,Gifts.com
+T2025262,2023-05-01,1459.9,Housing,Rent,Debit Card,City Power
+T2026494,2023-05-01,92.49,Personal,Entertainment,Online Transfer,Amazon
+T2025584,2023-05-01,117.77,Food,Delivery,Cash,Local Supermarket
+T2026034,2023-05-02,56.1,Personal,Subscription,Credit Card,Planet Fitness
+T2026148,2023-05-02,45.58,Transport,Public Transit,Credit Card,Shell
+T2026269,2023-05-02,61.85,Other,Health,Cash,Misc
+T2025571,2023-05-03,49.93,Transport,Gas,Cash,Lyft
+T2026320,2023-05-03,57.46,Transport,Taxi/Rideshare,Credit Card,Shell
+T2025034,2023-05-03,98.74,Other,Gifts,Online Transfer,Misc
+T2025512,2023-05-03,1381.59,Housing,Insurance,Online Transfer,State Farm
+T2026057,2023-05-04,18.21,Other,Health,Credit Card,Gifts.com
+T2025074,2023-05-04,228.89,Personal,Shopping,Credit Card,Planet Fitness
+T2025565,2023-05-04,799.09,Housing,Insurance,Online Transfer,State Farm
+T2026345,2023-05-06,22.9,Transport,Taxi/Rideshare,Debit Card,Shell
+T2025983,2023-05-07,44.49,Transport,Public Transit,Online Transfer,Uber
+T2025677,2023-05-07,795.56,Housing,Utilities,Credit Card,State Farm
+T2025778,2023-05-08,27.47,Transport,Gas,Online Transfer,Metro
+T2025175,2023-05-08,72.78,Other,Health,Debit Card,Gifts.com
+T2025449,2023-05-08,102.99,Personal,Shopping,Credit Card,H&M
+T2026444,2023-05-10,14.95,Food,Coffee,Debit Card,Uber Eats
+T2025626,2023-05-10,30.68,Other,Health,Online Transfer,Gifts.com
+T2025556,2023-05-11,64.61,Food,Groceries,Cash,Local Supermarket
+T2025847,2023-05-11,97.53,Other,Miscellaneous,Online Transfer,CVS
+T2025208,2023-05-12,133.07,Food,Delivery,Credit Card,Downtown Diner
+T2026497,2023-05-12,18.5,Transport,Taxi/Rideshare,Credit Card,Uber
+T2025327,2023-05-12,1924.64,Housing,Utilities,Credit Card,State Farm
+T2026216,2023-05-13,44.45,Other,Gifts,Debit Card,CVS
+T2025129,2023-05-13,34.01,Transport,Public Transit,Credit Card,Uber
+T2025273,2023-05-14,46.26,Transport,Public Transit,Debit Card,Uber
+T2026068,2023-05-14,1485.2,Housing,Utilities,Online Transfer,Landlord
+T2025721,2023-05-14,46.76,Other,Gifts,Debit Card,CVS
+T2025555,2023-05-16,1221.51,Housing,Utilities,Credit Card,Landlord
+T2025744,2023-05-16,54.96,Other,Miscellaneous,Credit Card,Misc
+T2025381,2023-05-16,35.43,Transport,Public Transit,Debit Card,Metro
+T2025902,2023-05-17,74.04,Other,Health,Online Transfer,Gifts.com
+T2025016,2023-05-17,124.02,Food,Dining Out,Debit Card,Uber Eats
+T2025476,2023-05-17,79.16,Other,Miscellaneous,Online Transfer,Misc
+T2025875,2023-05-18,89.65,Other,Gifts,Credit Card,Misc
+T2025265,2023-05-18,206.97,Personal,Subscription,Debit Card,Planet Fitness
+T2026482,2023-05-18,1758.29,Housing,Utilities,Online Transfer,Landlord
+T2025605,2023-05-19,134.12,Food,Delivery,Credit Card,Downtown Diner
+T2025971,2023-05-19,108.75,Personal,Shopping,Online Transfer,Amazon
+T2025608,2023-05-20,48.75,Food,Coffee,Online Transfer,Starbucks
+T2025207,2023-05-20,54.16,Transport,Gas,Debit Card,Metro
+T2026090,2023-05-20,29.55,Other,Gifts,Online Transfer,Gifts.com
+T2026418,2023-05-20,51.06,Transport,Public Transit,Credit Card,Uber
+T2025010,2023-05-21,83.96,Other,Miscellaneous,Debit Card,Misc
+T2025312,2023-05-21,158.41,Personal,Shopping,Cash,Amazon
+T2025860,2023-05-21,111.29,Food,Coffee,Online Transfer,Local Supermarket
+T2026066,2023-05-22,69.59,Other,Miscellaneous,Cash,Gifts.com
+T2026125,2023-05-22,161.1,Personal,Gym,Debit Card,H&M
+T2025230,2023-05-22,208.9,Personal,Entertainment,Debit Card,Planet Fitness
+T2025709,2023-05-22,229.1,Personal,Shopping,Debit Card,Planet Fitness
+T2025527,2023-05-22,45.79,Transport,Gas,Credit Card,Metro
+T2026087,2023-05-22,56.99,Other,Health,Credit Card,Gifts.com
+T2025780,2023-05-23,97.7,Personal,Entertainment,Debit Card,Planet Fitness
+T2025508,2023-05-26,63.4,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2025840,2023-05-26,67.32,Other,Health,Credit Card,Misc
+T2025076,2023-05-28,239.46,Personal,Entertainment,Credit Card,Amazon
+T2025690,2023-05-28,59.25,Transport,Taxi/Rideshare,Cash,Metro
+T2025027,2023-05-30,51.35,Transport,Gas,Credit Card,Shell
+T2026041,2023-05-31,37.91,Transport,Gas,Credit Card,Metro
+T2025101,2023-06-01,1545.22,Housing,Rent,Online Transfer,State Farm
+T2026172,2023-06-01,64.7,Other,Health,Online Transfer,CVS
+T2025183,2023-06-02,19.15,Other,Health,Cash,Gifts.com
+T2025749,2023-06-02,32.83,Food,Groceries,Cash,Local Supermarket
+T2025276,2023-06-02,10.58,Other,Gifts,Cash,CVS
+T2025939,2023-06-03,71.7,Food,Dining Out,Cash,Starbucks
+T2026256,2023-06-04,125.64,Food,Groceries,Online Transfer,Uber Eats
+T2025627,2023-06-06,153.64,Personal,Subscription,Credit Card,Planet Fitness
+T2026008,2023-06-06,85.82,Other,Health,Credit Card,Misc
+T2025215,2023-06-06,22.21,Transport,Public Transit,Credit Card,Lyft
+T2025532,2023-06-08,65.36,Transport,Public Transit,Credit Card,Metro
+T2025364,2023-06-08,60.38,Personal,Gym,Debit Card,H&M
+T2026141,2023-06-08,103.3,Food,Groceries,Cash,Downtown Diner
+T2025423,2023-06-09,80.9,Other,Miscellaneous,Cash,Misc
+T2026169,2023-06-10,19.89,Transport,Public Transit,Cash,Metro
+T2026052,2023-06-11,50.79,Other,Miscellaneous,Online Transfer,Gifts.com
+T2026157,2023-06-12,68.91,Other,Miscellaneous,Credit Card,Misc
+T2025118,2023-06-12,43.13,Other,Health,Online Transfer,Misc
+T2025964,2023-06-13,1708.53,Housing,Insurance,Online Transfer,State Farm
+T2025838,2023-06-16,184.36,Personal,Shopping,Cash,Netflix
+T2025918,2023-06-16,10.56,Food,Dining Out,Debit Card,Downtown Diner
+T2025455,2023-06-16,31.74,Transport,Taxi/Rideshare,Debit Card,Uber
+T2026109,2023-06-16,86.56,Other,Health,Online Transfer,Misc
+T2025641,2023-06-17,17.32,Food,Dining Out,Credit Card,Starbucks
+T2025064,2023-06-17,1620.4,Housing,Insurance,Credit Card,State Farm
+T2026435,2023-06-18,132.6,Food,Coffee,Debit Card,Downtown Diner
+T2025470,2023-06-18,55.42,Transport,Taxi/Rideshare,Cash,Metro
+T2026391,2023-06-19,1916.4,Housing,Insurance,Credit Card,City Power
+T2025438,2023-06-19,231.11,Personal,Subscription,Online Transfer,Amazon
+T2026058,2023-06-19,114.56,Personal,Entertainment,Credit Card,Amazon
+T2025586,2023-06-20,93.59,Other,Miscellaneous,Online Transfer,CVS
+T2026048,2023-06-20,109.48,Personal,Gym,Debit Card,Netflix
+T2025106,2023-06-21,59.72,Other,Health,Credit Card,CVS
+T2025887,2023-06-21,45.78,Transport,Taxi/Rideshare,Credit Card,Metro
+T2025694,2023-06-21,10.99,Transport,Gas,Debit Card,Lyft
+T2026372,2023-06-22,169.53,Personal,Shopping,Cash,H&M
+T2025711,2023-06-22,39.22,Transport,Public Transit,Online Transfer,Shell
+T2025937,2023-06-22,41.11,Food,Groceries,Debit Card,Uber Eats
+T2025304,2023-06-22,44.7,Other,Health,Debit Card,Gifts.com
+T2025206,2023-06-23,53.22,Transport,Gas,Credit Card,Metro
+T2025299,2023-06-23,119.91,Personal,Gym,Credit Card,Amazon
+T2025741,2023-06-23,1503.33,Housing,Utilities,Online Transfer,State Farm
+T2025301,2023-06-24,46.86,Other,Health,Cash,Gifts.com
+T2025317,2023-06-25,56.58,Transport,Taxi/Rideshare,Debit Card,Uber
+T2025318,2023-06-25,57.5,Other,Miscellaneous,Credit Card,Gifts.com
+T2025633,2023-06-26,42.79,Other,Health,Credit Card,Misc
+T2025257,2023-06-27,41.16,Other,Health,Credit Card,Misc
+T2025691,2023-06-27,28.4,Other,Gifts,Debit Card,CVS
+T2026136,2023-06-28,26.22,Food,Groceries,Cash,Uber Eats
+T2026250,2023-06-28,25.54,Transport,Public Transit,Online Transfer,Shell
+T2025942,2023-06-29,77.81,Other,Health,Credit Card,CVS
+T2026189,2023-06-29,70.17,Food,Coffee,Credit Card,Downtown Diner
+T2025498,2023-06-30,27.3,Other,Health,Credit Card,Misc
+T2026088,2023-06-30,163.88,Personal,Gym,Online Transfer,Planet Fitness
+T2026009,2023-06-30,246.46,Personal,Entertainment,Cash,H&M
+T2025079,2023-07-01,1478.8,Housing,Rent,Online Transfer,Landlord
+T2025990,2023-07-01,19.04,Personal,Subscription,Debit Card,Planet Fitness
+T2025551,2023-07-01,1084.32,Housing,Utilities,Credit Card,State Farm
+T2025944,2023-07-02,63.64,Food,Delivery,Online Transfer,Starbucks
+T2026030,2023-07-02,87.01,Personal,Subscription,Online Transfer,H&M
+T2026139,2023-07-04,123.4,Food,Dining Out,Online Transfer,Starbucks
+T2025788,2023-07-05,231.3,Personal,Gym,Debit Card,Planet Fitness
+T2025343,2023-07-05,698.03,Housing,Utilities,Debit Card,City Power
+T2026231,2023-07-06,1714.77,Housing,Utilities,Credit Card,City Power
+T2026221,2023-07-06,132.88,Personal,Entertainment,Credit Card,Netflix
+T2025826,2023-07-06,1196.95,Housing,Insurance,Online Transfer,Landlord
+T2025866,2023-07-07,69.65,Personal,Gym,Credit Card,H&M
+T2025150,2023-07-08,97.18,Food,Coffee,Credit Card,Starbucks
+T2025698,2023-07-08,29.99,Food,Groceries,Credit Card,Downtown Diner
+T2026213,2023-07-08,105.98,Food,Delivery,Credit Card,Downtown Diner
+T2025400,2023-07-08,1944.14,Housing,Utilities,Online Transfer,Landlord
+T2026452,2023-07-08,11.32,Transport,Gas,Online Transfer,Uber
+T2025815,2023-07-10,92.85,Food,Groceries,Cash,Starbucks
+T2025811,2023-07-10,40.99,Food,Dining Out,Cash,Downtown Diner
+T2025883,2023-07-11,163.01,Personal,Subscription,Debit Card,H&M
+T2025417,2023-07-11,110.45,Food,Dining Out,Credit Card,Local Supermarket
+T2025957,2023-07-11,1547.32,Housing,Insurance,Cash,State Farm
+T2025474,2023-07-11,1742.93,Housing,Utilities,Online Transfer,Landlord
+T2025969,2023-07-11,11.33,Other,Gifts,Credit Card,Misc
+T2025849,2023-07-12,63.11,Other,Health,Online Transfer,Misc
+T2026191,2023-07-12,1268.41,Housing,Insurance,Cash,Landlord
+T2025583,2023-07-13,32.51,Other,Miscellaneous,Online Transfer,Gifts.com
+T2026272,2023-07-13,87.69,Other,Gifts,Cash,CVS
+T2025282,2023-07-13,109.04,Food,Groceries,Credit Card,Uber Eats
+T2026475,2023-07-14,41.62,Personal,Shopping,Online Transfer,Netflix
+T2025681,2023-07-17,130.1,Food,Groceries,Cash,Uber Eats
+T2025070,2023-07-17,1968.2,Housing,Utilities,Credit Card,Landlord
+T2025473,2023-07-17,238.79,Personal,Gym,Cash,Netflix
+T2026427,2023-07-17,9.3,Food,Coffee,Cash,Downtown Diner
+T2025559,2023-07-18,47.7,Food,Dining Out,Online Transfer,Uber Eats
+T2025083,2023-07-20,236.61,Personal,Gym,Debit Card,H&M
+T2025314,2023-07-20,90.98,Other,Miscellaneous,Online Transfer,Misc
+T2025336,2023-07-20,78.81,Other,Health,Cash,Gifts.com
+T2026235,2023-07-21,94.0,Other,Gifts,Cash,Misc
+T2025899,2023-07-21,18.33,Transport,Public Transit,Credit Card,Lyft
+T2026101,2023-07-21,1477.49,Housing,Utilities,Debit Card,State Farm
+T2025526,2023-07-21,175.24,Personal,Gym,Online Transfer,H&M
+T2025385,2023-07-23,249.53,Personal,Shopping,Credit Card,Netflix
+T2025189,2023-07-25,47.31,Transport,Gas,Debit Card,Metro
+T2026440,2023-07-25,1417.59,Housing,Insurance,Credit Card,City Power
+T2025126,2023-07-25,20.63,Transport,Taxi/Rideshare,Online Transfer,Shell
+T2026237,2023-07-25,86.23,Other,Gifts,Debit Card,Gifts.com
+T2026439,2023-07-26,214.23,Personal,Gym,Cash,H&M
+T2025374,2023-07-27,43.89,Other,Miscellaneous,Credit Card,Misc
+T2025169,2023-07-27,35.66,Transport,Public Transit,Cash,Uber
+T2026014,2023-07-28,35.8,Transport,Public Transit,Debit Card,Uber
+T2025716,2023-07-29,80.37,Other,Miscellaneous,Credit Card,CVS
+T2025012,2023-07-29,1564.53,Housing,Utilities,Debit Card,Landlord
+T2025340,2023-07-29,1847.36,Housing,Insurance,Debit Card,State Farm
+T2025000,2023-07-30,44.63,Transport,Public Transit,Credit Card,Shell
+T2026266,2023-07-31,56.41,Transport,Gas,Cash,Uber
+T2026383,2023-07-31,87.49,Food,Delivery,Cash,Starbucks
+T2025261,2023-07-31,64.86,Other,Health,Online Transfer,Misc
+T2025994,2023-08-01,28.87,Food,Dining Out,Online Transfer,Uber Eats
+T2025063,2023-08-01,1479.63,Housing,Rent,Credit Card,City Power
+T2026003,2023-08-02,133.19,Personal,Subscription,Credit Card,Amazon
+T2026042,2023-08-02,61.3,Other,Miscellaneous,Debit Card,Gifts.com
+T2026040,2023-08-03,60.0,Other,Health,Online Transfer,Misc
+T2025483,2023-08-03,12.77,Transport,Public Transit,Online Transfer,Lyft
+T2026126,2023-08-04,871.87,Housing,Utilities,Online Transfer,City Power
+T2025818,2023-08-04,16.47,Food,Dining Out,Cash,Local Supermarket
+T2025754,2023-08-04,121.8,Food,Delivery,Credit Card,Uber Eats
+T2025625,2023-08-05,116.8,Personal,Entertainment,Credit Card,H&M
+T2025734,2023-08-06,38.88,Food,Coffee,Debit Card,Starbucks
+T2025272,2023-08-06,37.94,Transport,Taxi/Rideshare,Online Transfer,Shell
+T2026097,2023-08-06,190.11,Personal,Entertainment,Debit Card,Planet Fitness
+T2026305,2023-08-06,17.89,Food,Groceries,Debit Card,Uber Eats
+T2025454,2023-08-07,245.6,Personal,Subscription,Debit Card,H&M
+T2026322,2023-08-07,39.5,Other,Health,Debit Card,Misc
+T2025987,2023-08-07,25.63,Transport,Gas,Cash,Shell
+T2026181,2023-08-08,33.73,Other,Gifts,Credit Card,Misc
+T2026291,2023-08-08,74.83,Personal,Gym,Online Transfer,Amazon
+T2025256,2023-08-08,228.06,Personal,Subscription,Online Transfer,Netflix
+T2026063,2023-08-09,68.18,Food,Delivery,Online Transfer,Downtown Diner
+T2025112,2023-08-09,1405.84,Housing,Utilities,Cash,City Power
+T2025808,2023-08-09,215.88,Personal,Subscription,Debit Card,Amazon
+T2026196,2023-08-10,32.92,Other,Health,Online Transfer,Gifts.com
+T2025812,2023-08-11,16.59,Transport,Taxi/Rideshare,Credit Card,Metro
+T2025502,2023-08-13,14.35,Food,Groceries,Online Transfer,Uber Eats
+T2025828,2023-08-13,19.46,Food,Delivery,Online Transfer,Local Supermarket
+T2026112,2023-08-13,709.15,Housing,Insurance,Debit Card,City Power
+T2025805,2023-08-13,52.81,Other,Health,Debit Card,CVS
+T2025443,2023-08-14,44.89,Transport,Public Transit,Credit Card,Shell
+T2025223,2023-08-14,121.28,Food,Dining Out,Credit Card,Downtown Diner
+T2026182,2023-08-14,44.32,Other,Gifts,Cash,Misc
+T2026079,2023-08-14,40.04,Transport,Gas,Cash,Lyft
+T2025479,2023-08-14,71.35,Other,Miscellaneous,Online Transfer,Misc
+T2025511,2023-08-15,99.22,Other,Gifts,Cash,CVS
+T2025822,2023-08-15,138.69,Food,Groceries,Cash,Starbucks
+T2025452,2023-08-16,114.51,Food,Dining Out,Online Transfer,Downtown Diner
+T2026110,2023-08-16,198.34,Personal,Gym,Cash,Planet Fitness
+T2026447,2023-08-16,78.64,Food,Coffee,Online Transfer,Starbucks
+T2025917,2023-08-17,57.4,Other,Health,Online Transfer,Misc
+T2026031,2023-08-17,82.65,Other,Miscellaneous,Credit Card,CVS
+T2025533,2023-08-19,91.64,Other,Miscellaneous,Online Transfer,Misc
+T2026215,2023-08-19,45.06,Other,Health,Debit Card,Gifts.com
+T2026183,2023-08-20,38.87,Other,Health,Credit Card,Gifts.com
+T2025371,2023-08-20,50.36,Transport,Gas,Cash,Shell
+T2025429,2023-08-20,47.48,Other,Gifts,Online Transfer,Gifts.com
+T2026357,2023-08-22,91.26,Personal,Entertainment,Credit Card,H&M
+T2025742,2023-08-22,32.84,Transport,Public Transit,Cash,Metro
+T2025909,2023-08-22,160.3,Personal,Gym,Debit Card,Amazon
+T2025768,2023-08-24,24.78,Transport,Taxi/Rideshare,Credit Card,Metro
+T2025685,2023-08-24,56.95,Other,Miscellaneous,Credit Card,Gifts.com
+T2026466,2023-08-25,25.19,Other,Miscellaneous,Online Transfer,Misc
+T2026198,2023-08-25,103.22,Personal,Entertainment,Online Transfer,H&M
+T2025980,2023-08-25,1406.6,Housing,Insurance,Debit Card,Landlord
+T2026481,2023-08-25,69.99,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2025662,2023-08-25,49.88,Food,Groceries,Cash,Downtown Diner
+T2025774,2023-08-25,46.4,Food,Delivery,Credit Card,Uber Eats
+T2026295,2023-08-25,60.3,Personal,Gym,Online Transfer,Planet Fitness
+T2025543,2023-08-26,1930.2,Housing,Insurance,Debit Card,Landlord
+T2025696,2023-08-26,89.12,Food,Dining Out,Online Transfer,Uber Eats
+T2025130,2023-08-28,764.52,Housing,Insurance,Cash,City Power
+T2026359,2023-08-28,65.56,Food,Groceries,Credit Card,Local Supermarket
+T2026417,2023-08-29,90.87,Food,Delivery,Online Transfer,Starbucks
+T2025960,2023-08-29,12.02,Transport,Gas,Credit Card,Shell
+T2025894,2023-08-29,22.41,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2025577,2023-08-29,1726.1,Housing,Utilities,Debit Card,State Farm
+T2026249,2023-08-30,15.25,Transport,Gas,Credit Card,Metro
+T2025410,2023-08-31,61.63,Food,Delivery,Online Transfer,Starbucks
+T2025056,2023-08-31,26.24,Personal,Subscription,Credit Card,H&M
+T2025104,2023-09-01,40.92,Food,Groceries,Cash,Uber Eats
+T2025367,2023-09-01,11.76,Transport,Gas,Credit Card,Shell
+T2026314,2023-09-01,1453.55,Housing,Rent,Debit Card,Landlord
+T2025149,2023-09-02,95.09,Food,Coffee,Cash,Local Supermarket
+T2025311,2023-09-02,60.92,Transport,Taxi/Rideshare,Online Transfer,Uber
+T2026147,2023-09-03,28.23,Food,Delivery,Online Transfer,Local Supermarket
+T2025068,2023-09-03,83.58,Food,Groceries,Online Transfer,Local Supermarket
+T2025541,2023-09-04,40.17,Food,Delivery,Debit Card,Starbucks
+T2026162,2023-09-04,95.08,Other,Gifts,Cash,Gifts.com
+T2026176,2023-09-05,145.35,Food,Groceries,Online Transfer,Uber Eats
+T2026420,2023-09-05,107.62,Food,Dining Out,Cash,Local Supermarket
+T2025844,2023-09-06,78.44,Personal,Subscription,Debit Card,H&M
+T2025025,2023-09-06,140.16,Personal,Gym,Debit Card,H&M
+T2025446,2023-09-08,161.84,Personal,Subscription,Online Transfer,Planet Fitness
+T2025687,2023-09-08,57.27,Personal,Gym,Online Transfer,Planet Fitness
+T2026103,2023-09-09,25.67,Transport,Public Transit,Online Transfer,Metro
+T2025547,2023-09-09,52.01,Other,Health,Credit Card,CVS
+T2026062,2023-09-09,1435.6,Housing,Utilities,Online Transfer,City Power
+T2025151,2023-09-10,20.65,Other,Miscellaneous,Online Transfer,Gifts.com
+T2025604,2023-09-10,959.96,Housing,Utilities,Online Transfer,State Farm
+T2025029,2023-09-11,24.4,Other,Health,Cash,Misc
+T2026227,2023-09-11,1939.8,Housing,Utilities,Cash,City Power
+T2025218,2023-09-12,609.58,Housing,Utilities,Online Transfer,City Power
+T2025081,2023-09-12,160.07,Personal,Entertainment,Credit Card,Amazon
+T2025122,2023-09-13,45.96,Transport,Gas,Cash,Shell
+T2025574,2023-09-13,1085.74,Housing,Insurance,Cash,State Farm
+T2025366,2023-09-13,31.56,Food,Groceries,Online Transfer,Starbucks
+T2025614,2023-09-13,10.03,Other,Miscellaneous,Debit Card,CVS
+T2026324,2023-09-14,83.11,Personal,Gym,Debit Card,H&M
+T2025654,2023-09-14,97.44,Other,Gifts,Credit Card,Misc
+T2026429,2023-09-14,102.29,Food,Delivery,Online Transfer,Uber Eats
+T2025142,2023-09-15,58.09,Other,Miscellaneous,Cash,CVS
+T2025956,2023-09-16,25.72,Food,Delivery,Debit Card,Local Supermarket
+T2026233,2023-09-16,11.11,Other,Health,Cash,Gifts.com
+T2025700,2023-09-16,105.43,Personal,Entertainment,Credit Card,Amazon
+T2026493,2023-09-16,37.45,Food,Coffee,Credit Card,Downtown Diner
+T2025890,2023-09-17,75.08,Food,Groceries,Cash,Uber Eats
+T2025415,2023-09-17,124.85,Food,Coffee,Credit Card,Starbucks
+T2025630,2023-09-17,197.72,Personal,Entertainment,Credit Card,Netflix
+T2026005,2023-09-19,69.55,Personal,Shopping,Credit Card,Netflix
+T2025363,2023-09-20,82.57,Personal,Subscription,Cash,Netflix
+T2026177,2023-09-21,143.72,Personal,Entertainment,Debit Card,Netflix
+T2026105,2023-09-21,25.39,Transport,Public Transit,Credit Card,Shell
+T2025572,2023-09-21,70.47,Personal,Gym,Online Transfer,Planet Fitness
+T2026340,2023-09-21,62.13,Food,Delivery,Cash,Uber Eats
+T2025339,2023-09-22,93.72,Food,Groceries,Debit Card,Starbucks
+T2025516,2023-09-22,1522.44,Housing,Insurance,Cash,City Power
+T2025678,2023-09-22,13.09,Transport,Public Transit,Debit Card,Shell
+T2025460,2023-09-23,54.28,Personal,Gym,Cash,Planet Fitness
+T2025758,2023-09-23,125.51,Food,Groceries,Online Transfer,Local Supermarket
+T2025054,2023-09-25,230.4,Personal,Gym,Debit Card,H&M
+T2025864,2023-09-25,688.43,Housing,Utilities,Debit Card,Landlord
+T2025676,2023-09-26,52.04,Transport,Gas,Cash,Lyft
+T2025251,2023-09-26,73.74,Other,Miscellaneous,Online Transfer,Misc
+T2025436,2023-09-27,237.25,Personal,Entertainment,Credit Card,H&M
+T2025424,2023-09-27,813.14,Housing,Utilities,Credit Card,Landlord
+T2025645,2023-09-27,110.65,Food,Dining Out,Credit Card,Downtown Diner
+T2025686,2023-09-27,78.85,Other,Gifts,Cash,Misc
+T2025297,2023-09-28,64.98,Food,Coffee,Debit Card,Starbucks
+T2025286,2023-09-29,86.75,Other,Miscellaneous,Online Transfer,CVS
+T2025420,2023-09-29,43.57,Personal,Subscription,Cash,Planet Fitness
+T2026476,2023-09-30,126.62,Food,Dining Out,Debit Card,Local Supermarket
+T2026017,2023-09-30,194.68,Personal,Entertainment,Online Transfer,H&M
+T2026012,2023-09-30,1183.33,Housing,Utilities,Cash,State Farm
+T2026197,2023-10-01,137.78,Food,Groceries,Cash,Downtown Diner
+T2025668,2023-10-01,91.04,Food,Coffee,Credit Card,Uber Eats
+T2025171,2023-10-01,242.23,Personal,Gym,Online Transfer,Planet Fitness
+T2025102,2023-10-01,1483.7,Housing,Rent,Debit Card,Landlord
+T2025912,2023-10-02,99.83,Other,Gifts,Online Transfer,Misc
+T2025217,2023-10-02,15.52,Transport,Public Transit,Credit Card,Shell
+T2026046,2023-10-03,1952.21,Housing,Utilities,Credit Card,State Farm
+T2025125,2023-10-03,59.31,Transport,Gas,Online Transfer,Lyft
+T2026277,2023-10-04,17.68,Other,Health,Online Transfer,Misc
+T2025322,2023-10-04,69.79,Transport,Taxi/Rideshare,Cash,Uber
+T2025458,2023-10-04,68.21,Transport,Gas,Debit Card,Shell
+T2025186,2023-10-07,43.56,Food,Groceries,Credit Card,Downtown Diner
+T2026467,2023-10-07,166.24,Personal,Subscription,Debit Card,Planet Fitness
+T2026185,2023-10-08,38.93,Other,Health,Online Transfer,CVS
+T2025984,2023-10-08,116.62,Food,Dining Out,Cash,Starbucks
+T2026245,2023-10-08,41.93,Other,Gifts,Credit Card,Misc
+T2025499,2023-10-08,119.24,Personal,Entertainment,Cash,Amazon
+T2026225,2023-10-09,60.67,Personal,Entertainment,Debit Card,Amazon
+T2025563,2023-10-09,129.77,Food,Groceries,Online Transfer,Starbucks
+T2026377,2023-10-12,56.21,Transport,Gas,Online Transfer,Uber
+T2025450,2023-10-13,83.56,Other,Gifts,Cash,Gifts.com
+T2025049,2023-10-13,1280.98,Housing,Utilities,Cash,State Farm
+T2025616,2023-10-13,11.46,Transport,Public Transit,Debit Card,Uber
+T2025227,2023-10-14,43.76,Food,Groceries,Credit Card,Local Supermarket
+T2025506,2023-10-14,81.09,Other,Gifts,Debit Card,Gifts.com
+T2025132,2023-10-15,53.51,Transport,Gas,Online Transfer,Metro
+T2025271,2023-10-16,68.06,Transport,Public Transit,Cash,Lyft
+T2025492,2023-10-17,35.42,Other,Miscellaneous,Credit Card,Misc
+T2025932,2023-10-17,51.88,Transport,Gas,Debit Card,Lyft
+T2025517,2023-10-17,85.0,Food,Dining Out,Online Transfer,Downtown Diner
+T2026255,2023-10-18,123.56,Food,Dining Out,Online Transfer,Uber Eats
+T2026275,2023-10-19,1701.97,Housing,Insurance,Cash,Landlord
+T2026111,2023-10-20,82.51,Personal,Entertainment,Cash,Planet Fitness
+T2026348,2023-10-20,12.96,Transport,Gas,Debit Card,Metro
+T2025578,2023-10-21,68.72,Transport,Taxi/Rideshare,Online Transfer,Metro
+T2025152,2023-10-21,28.78,Food,Delivery,Debit Card,Uber Eats
+T2025825,2023-10-21,1821.12,Housing,Insurance,Online Transfer,Landlord
+T2025606,2023-10-22,108.57,Food,Dining Out,Online Transfer,Starbucks
+T2025787,2023-10-22,89.83,Food,Groceries,Debit Card,Local Supermarket
+T2025802,2023-10-24,105.71,Food,Groceries,Debit Card,Downtown Diner
+T2025852,2023-10-24,101.77,Food,Delivery,Cash,Downtown Diner
+T2025351,2023-10-25,39.99,Transport,Gas,Cash,Lyft
+T2025212,2023-10-25,129.69,Food,Groceries,Online Transfer,Starbucks
+T2026228,2023-10-25,31.55,Personal,Gym,Cash,H&M
+T2025113,2023-10-26,114.74,Personal,Entertainment,Online Transfer,H&M
+T2025407,2023-10-27,27.51,Food,Coffee,Credit Card,Starbucks
+T2025440,2023-10-28,33.9,Other,Miscellaneous,Debit Card,CVS
+T2026075,2023-10-30,1316.18,Housing,Utilities,Cash,Landlord
+T2025335,2023-10-31,26.46,Personal,Subscription,Debit Card,Netflix
+T2026404,2023-10-31,60.17,Transport,Public Transit,Cash,Uber
+T2025131,2023-11-01,1483.9,Housing,Rent,Debit Card,City Power
+T2025396,2023-11-01,22.48,Other,Gifts,Cash,CVS
+T2025724,2023-11-01,181.75,Personal,Gym,Online Transfer,Netflix
+T2025593,2023-11-03,22.2,Personal,Entertainment,Credit Card,Amazon
+T2026416,2023-11-03,65.03,Transport,Gas,Online Transfer,Shell
+T2026071,2023-11-04,24.82,Food,Delivery,Online Transfer,Starbucks
+T2026203,2023-11-06,80.6,Personal,Shopping,Online Transfer,H&M
+T2025784,2023-11-06,36.59,Other,Miscellaneous,Debit Card,CVS
+T2025965,2023-11-07,1527.25,Housing,Insurance,Debit Card,City Power
+T2026145,2023-11-07,116.38,Personal,Subscription,Online Transfer,Planet Fitness
+T2025834,2023-11-08,1578.0,Housing,Utilities,Online Transfer,City Power
+T2025906,2023-11-09,56.16,Transport,Public Transit,Debit Card,Uber
+T2025485,2023-11-10,59.73,Food,Coffee,Debit Card,Uber Eats
+T2025350,2023-11-10,95.21,Food,Delivery,Debit Card,Starbucks
+T2026399,2023-11-11,104.11,Personal,Subscription,Cash,Planet Fitness
+T2025267,2023-11-11,52.81,Transport,Gas,Debit Card,Metro
+T2025463,2023-11-11,36.47,Other,Miscellaneous,Debit Card,Gifts.com
+T2026485,2023-11-11,42.02,Transport,Public Transit,Online Transfer,Metro
+T2025504,2023-11-11,242.7,Personal,Shopping,Debit Card,Amazon
+T2025803,2023-11-13,714.16,Housing,Utilities,Online Transfer,City Power
+T2026144,2023-11-14,525.06,Housing,Utilities,Cash,City Power
+T2026464,2023-11-16,27.07,Personal,Gym,Cash,Netflix
+T2025976,2023-11-16,1244.08,Housing,Insurance,Cash,City Power
+T2025810,2023-11-16,30.27,Other,Miscellaneous,Online Transfer,Gifts.com
+T2026301,2023-11-17,68.26,Food,Delivery,Cash,Starbucks
+T2025792,2023-11-17,21.49,Transport,Taxi/Rideshare,Online Transfer,Shell
+T2025078,2023-11-17,1545.49,Housing,Insurance,Cash,State Farm
+T2026159,2023-11-18,89.83,Other,Health,Credit Card,CVS
+T2025924,2023-11-18,35.09,Personal,Shopping,Debit Card,Planet Fitness
+T2025948,2023-11-18,90.46,Food,Dining Out,Debit Card,Starbucks
+T2025697,2023-11-19,1348.59,Housing,Insurance,Credit Card,Landlord
+T2025591,2023-11-19,58.52,Other,Health,Online Transfer,Gifts.com
+T2026102,2023-11-20,35.25,Other,Health,Cash,Gifts.com
+T2025166,2023-11-21,1581.12,Housing,Insurance,Debit Card,Landlord
+T2026238,2023-11-21,88.86,Food,Coffee,Online Transfer,Downtown Diner
+T2025607,2023-11-22,1231.95,Housing,Utilities,Online Transfer,Landlord
+T2026117,2023-11-22,66.64,Transport,Public Transit,Online Transfer,Lyft
+T2025988,2023-11-23,524.18,Housing,Utilities,Credit Card,Landlord
+T2026361,2023-11-23,36.53,Other,Miscellaneous,Debit Card,Misc
+T2025291,2023-11-25,186.83,Personal,Shopping,Credit Card,Netflix
+T2026067,2023-11-25,1105.76,Housing,Insurance,Debit Card,Landlord
+T2025562,2023-11-25,23.2,Transport,Gas,Online Transfer,Uber
+T2025549,2023-11-27,43.28,Other,Health,Online Transfer,Misc
+T2025401,2023-11-27,60.85,Transport,Taxi/Rideshare,Cash,Lyft
+T2025355,2023-11-28,117.87,Personal,Entertainment,Online Transfer,Netflix
+T2025908,2023-11-28,39.16,Transport,Public Transit,Credit Card,Uber
+T2025174,2023-11-28,54.13,Transport,Taxi/Rideshare,Cash,Shell
+T2026321,2023-11-28,84.84,Other,Health,Online Transfer,CVS
+T2025037,2023-11-29,90.7,Other,Miscellaneous,Cash,Misc
+T2025190,2023-11-29,68.49,Transport,Gas,Debit Card,Metro
+T2026374,2023-11-30,186.69,Personal,Entertainment,Credit Card,Planet Fitness
+T2025858,2023-11-30,34.04,Food,Coffee,Online Transfer,Downtown Diner
+T2026028,2023-11-30,1101.47,Housing,Insurance,Cash,City Power
+T2026024,2023-12-01,71.06,Food,Delivery,Online Transfer,Local Supermarket
+T2025398,2023-12-01,1461.53,Housing,Rent,Cash,Landlord
+T2026326,2023-12-02,69.63,Food,Delivery,Credit Card,Uber Eats
+T2025793,2023-12-03,86.1,Other,Health,Cash,Gifts.com
+T2025482,2023-12-03,28.32,Transport,Public Transit,Cash,Metro
+T2025531,2023-12-04,986.24,Housing,Utilities,Debit Card,City Power
+T2025873,2023-12-04,52.22,Transport,Gas,Debit Card,Metro
+T2025735,2023-12-04,21.84,Other,Miscellaneous,Credit Card,CVS
+T2025755,2023-12-05,77.71,Other,Miscellaneous,Credit Card,Gifts.com
+T2025528,2023-12-06,55.97,Other,Gifts,Online Transfer,CVS
+T2026092,2023-12-06,669.34,Housing,Utilities,Online Transfer,City Power
+T2026021,2023-12-07,48.21,Transport,Public Transit,Cash,Uber
+T2025675,2023-12-08,65.48,Other,Health,Debit Card,Gifts.com
+T2026032,2023-12-10,124.06,Food,Groceries,Debit Card,Local Supermarket
+T2025738,2023-12-12,34.64,Transport,Gas,Cash,Lyft
+T2025970,2023-12-15,56.7,Other,Gifts,Debit Card,Misc
+T2026119,2023-12-15,102.37,Food,Delivery,Cash,Local Supermarket
+T2026155,2023-12-17,25.8,Food,Coffee,Online Transfer,Uber Eats
+T2025313,2023-12-17,12.01,Transport,Taxi/Rideshare,Credit Card,Shell
+T2026456,2023-12-19,89.82,Other,Miscellaneous,Cash,CVS
+T2025862,2023-12-19,35.01,Other,Gifts,Credit Card,CVS
+T2025800,2023-12-20,71.92,Food,Coffee,Credit Card,Downtown Diner
+T2025478,2023-12-20,57.23,Transport,Public Transit,Cash,Shell
+T2025824,2023-12-20,123.55,Personal,Entertainment,Cash,H&M
+T2025553,2023-12-21,50.97,Personal,Gym,Online Transfer,Netflix
+T2025740,2023-12-21,56.54,Transport,Public Transit,Debit Card,Metro
+T2026309,2023-12-21,138.31,Food,Dining Out,Debit Card,Downtown Diner
+T2025250,2023-12-22,242.64,Personal,Entertainment,Online Transfer,H&M
+T2025388,2023-12-23,110.45,Personal,Gym,Cash,Planet Fitness
+T2026288,2023-12-23,597.76,Housing,Insurance,Credit Card,City Power
+T2025599,2023-12-24,65.82,Food,Dining Out,Cash,Uber Eats
+T2025233,2023-12-24,42.44,Transport,Public Transit,Online Transfer,Shell
+T2025525,2023-12-26,22.4,Transport,Gas,Credit Card,Lyft
+T2025535,2023-12-27,180.36,Personal,Subscription,Online Transfer,Amazon
+T2026070,2023-12-27,117.7,Food,Groceries,Debit Card,Uber Eats
+T2025850,2023-12-28,39.84,Food,Coffee,Cash,Local Supermarket
+T2026260,2023-12-29,23.39,Other,Gifts,Online Transfer,Misc
+T2026152,2023-12-30,8.32,Food,Dining Out,Cash,Local Supermarket
+T2025497,2024-01-01,71.93,Other,Miscellaneous,Online Transfer,CVS
+T2025090,2024-01-01,1516.48,Housing,Rent,Credit Card,Landlord
+T2025346,2024-01-01,60.03,Personal,Shopping,Debit Card,Netflix
+T2025494,2024-01-02,18.76,Personal,Shopping,Credit Card,Planet Fitness
+T2025813,2024-01-03,171.7,Personal,Entertainment,Online Transfer,H&M
+T2026412,2024-01-03,56.47,Food,Delivery,Debit Card,Uber Eats
+T2025974,2024-01-05,241.78,Personal,Gym,Cash,Planet Fitness
+T2026065,2024-01-06,239.95,Personal,Entertainment,Debit Card,H&M
+T2025486,2024-01-06,12.95,Food,Groceries,Debit Card,Downtown Diner
+T2026292,2024-01-07,142.75,Food,Groceries,Debit Card,Downtown Diner
+T2025328,2024-01-07,44.99,Personal,Entertainment,Debit Card,Netflix
+T2026039,2024-01-08,54.63,Personal,Shopping,Credit Card,Planet Fitness
+T2025872,2024-01-08,35.78,Food,Dining Out,Debit Card,Local Supermarket
+T2026137,2024-01-08,107.91,Food,Groceries,Cash,Downtown Diner
+T2026465,2024-01-09,69.06,Other,Health,Credit Card,Misc
+T2025203,2024-01-09,176.28,Personal,Subscription,Online Transfer,Amazon
+T2025656,2024-01-09,1084.93,Housing,Utilities,Cash,Landlord
+T2026341,2024-01-09,45.97,Other,Gifts,Cash,Misc
+T2025464,2024-01-10,30.89,Transport,Public Transit,Debit Card,Metro
+T2025961,2024-01-10,121.03,Food,Coffee,Debit Card,Uber Eats
+T2026054,2024-01-11,37.26,Other,Health,Credit Card,Gifts.com
+T2026222,2024-01-11,45.94,Other,Miscellaneous,Credit Card,Gifts.com
+T2026214,2024-01-11,61.18,Personal,Gym,Cash,Amazon
+T2026254,2024-01-11,69.48,Transport,Taxi/Rideshare,Credit Card,Lyft
+T2025239,2024-01-11,48.3,Food,Delivery,Credit Card,Local Supermarket
+T2025730,2024-01-12,58.26,Other,Gifts,Online Transfer,CVS
+T2025889,2024-01-13,26.16,Other,Health,Online Transfer,Misc
+T2026156,2024-01-13,106.43,Food,Dining Out,Debit Card,Local Supermarket
+T2025352,2024-01-13,21.45,Transport,Gas,Cash,Metro
+T2026448,2024-01-14,17.78,Transport,Taxi/Rideshare,Cash,Shell
+T2026129,2024-01-14,103.65,Food,Coffee,Debit Card,Uber Eats
+T2025524,2024-01-15,144.13,Food,Delivery,Cash,Downtown Diner
+T2026366,2024-01-15,98.45,Other,Gifts,Online Transfer,Gifts.com
+T2026330,2024-01-15,17.23,Personal,Subscription,Online Transfer,Planet Fitness
+T2025287,2024-01-16,104.4,Personal,Entertainment,Credit Card,H&M
+T2025383,2024-01-16,11.15,Transport,Gas,Credit Card,Shell
+T2025647,2024-01-16,102.41,Personal,Gym,Online Transfer,Netflix
+T2025951,2024-01-17,26.43,Transport,Public Transit,Credit Card,Metro
+T2026167,2024-01-17,55.65,Transport,Gas,Debit Card,Metro
+T2025323,2024-01-18,245.36,Personal,Gym,Online Transfer,Amazon
+T2025451,2024-01-18,111.24,Food,Delivery,Credit Card,Local Supermarket
+T2025172,2024-01-18,20.21,Other,Gifts,Credit Card,Misc
+T2025376,2024-01-19,16.94,Food,Coffee,Cash,Downtown Diner
+T2025399,2024-01-21,52.06,Other,Gifts,Online Transfer,Gifts.com
+T2025968,2024-01-21,176.03,Personal,Entertainment,Online Transfer,Amazon
+T2025536,2024-01-21,149.16,Personal,Gym,Online Transfer,H&M
+T2025503,2024-01-23,51.44,Transport,Gas,Debit Card,Shell
+T2025602,2024-01-23,118.6,Food,Dining Out,Debit Card,Starbucks
+T2025242,2024-01-23,48.78,Other,Miscellaneous,Credit Card,Gifts.com
+T2025881,2024-01-24,30.09,Transport,Taxi/Rideshare,Cash,Shell
+T2025575,2024-01-24,90.39,Personal,Gym,Credit Card,H&M
+T2025098,2024-01-25,54.54,Personal,Gym,Credit Card,Netflix
+T2025114,2024-01-26,83.87,Personal,Subscription,Debit Card,H&M
+T2025393,2024-01-26,73.7,Food,Dining Out,Debit Card,Starbucks
+T2025550,2024-01-26,32.65,Other,Gifts,Online Transfer,CVS
+T2025447,2024-01-26,162.01,Personal,Shopping,Online Transfer,H&M
+T2025148,2024-01-27,17.41,Personal,Subscription,Online Transfer,Amazon
+T2025370,2024-01-27,178.08,Personal,Gym,Cash,Netflix
+T2026496,2024-01-28,94.72,Other,Gifts,Credit Card,CVS
+T2025445,2024-01-28,55.48,Transport,Public Transit,Online Transfer,Metro
+T2025292,2024-01-29,122.9,Food,Coffee,Online Transfer,Uber Eats
+T2025200,2024-01-29,46.4,Transport,Public Transit,Online Transfer,Shell
+T2025426,2024-01-29,46.98,Transport,Taxi/Rideshare,Debit Card,Shell
+T2026360,2024-01-30,39.1,Other,Gifts,Debit Card,Gifts.com
+T2025058,2024-01-30,139.86,Food,Groceries,Online Transfer,Starbucks
+T2025103,2024-01-30,51.62,Other,Miscellaneous,Online Transfer,Gifts.com
+T2025972,2024-01-31,56.66,Food,Dining Out,Online Transfer,Starbucks
+T2025540,2024-02-01,241.46,Personal,Subscription,Cash,H&M
+T2025069,2024-02-01,1457.31,Housing,Rent,Debit Card,Landlord
+T2025775,2024-02-01,56.76,Food,Groceries,Debit Card,Starbucks
+T2025057,2024-02-01,78.11,Food,Delivery,Online Transfer,Local Supermarket
+T2025246,2024-02-02,72.26,Personal,Gym,Debit Card,Planet Fitness
+T2026259,2024-02-03,25.36,Other,Gifts,Cash,Gifts.com
+T2025950,2024-02-04,40.42,Transport,Public Transit,Debit Card,Metro
+T2025510,2024-02-06,70.4,Other,Health,Debit Card,CVS
+T2025928,2024-02-06,249.12,Personal,Gym,Credit Card,Netflix
+T2026316,2024-02-06,105.94,Food,Groceries,Online Transfer,Starbucks
+T2026037,2024-02-06,836.09,Housing,Utilities,Online Transfer,City Power
+T2026267,2024-02-06,862.42,Housing,Insurance,Debit Card,State Farm
+T2025603,2024-02-06,65.69,Food,Coffee,Credit Card,Local Supermarket
+T2025211,2024-02-07,137.71,Personal,Shopping,Credit Card,Amazon
+T2025439,2024-02-07,10.55,Food,Delivery,Cash,Downtown Diner
+T2025791,2024-02-07,81.06,Food,Groceries,Credit Card,Starbucks
+T2026193,2024-02-07,57.72,Transport,Public Transit,Online Transfer,Shell
+T2025279,2024-02-08,46.84,Personal,Gym,Online Transfer,Amazon
+T2025548,2024-02-09,140.68,Food,Coffee,Credit Card,Uber Eats
+T2025967,2024-02-09,10.52,Transport,Public Transit,Online Transfer,Lyft
+T2025693,2024-02-10,96.2,Other,Miscellaneous,Online Transfer,CVS
+T2025226,2024-02-10,1316.97,Housing,Utilities,Cash,City Power
+T2025003,2024-02-10,37.73,Food,Groceries,Debit Card,Downtown Diner
+T2025702,2024-02-10,123.69,Personal,Gym,Online Transfer,Planet Fitness
+T2025133,2024-02-10,871.9,Housing,Insurance,Credit Card,State Farm
+T2026389,2024-02-11,1342.63,Housing,Insurance,Credit Card,State Farm
+T2025513,2024-02-12,1816.97,Housing,Insurance,Debit Card,Landlord
+T2025931,2024-02-12,84.69,Personal,Gym,Credit Card,Amazon
+T2026471,2024-02-14,20.27,Other,Gifts,Cash,Misc
+T2025219,2024-02-14,68.01,Transport,Public Transit,Cash,Metro
+T2025546,2024-02-15,37.08,Transport,Taxi/Rideshare,Credit Card,Uber
+T2025394,2024-02-17,75.69,Food,Groceries,Online Transfer,Downtown Diner
+T2025077,2024-02-17,84.53,Personal,Gym,Credit Card,H&M
+T2026025,2024-02-18,1008.92,Housing,Insurance,Online Transfer,State Farm
+T2025204,2024-02-18,66.06,Other,Miscellaneous,Credit Card,Misc
+T2025243,2024-02-19,13.48,Transport,Taxi/Rideshare,Debit Card,Metro
+T2025723,2024-02-20,206.27,Personal,Subscription,Debit Card,Netflix
+T2025658,2024-02-20,64.59,Transport,Public Transit,Online Transfer,Lyft
+T2025596,2024-02-20,227.98,Personal,Gym,Online Transfer,Planet Fitness
+T2026107,2024-02-20,1720.14,Housing,Insurance,Credit Card,City Power
+T2025444,2024-02-20,1482.63,Housing,Utilities,Credit Card,State Farm
+T2025671,2024-02-21,1612.35,Housing,Insurance,Credit Card,State Farm
+T2026323,2024-02-22,75.78,Food,Groceries,Online Transfer,Uber Eats
+T2026234,2024-02-23,86.05,Food,Coffee,Cash,Local Supermarket
+T2026335,2024-02-24,693.33,Housing,Insurance,Cash,Landlord
+T2025337,2024-02-25,141.72,Food,Groceries,Online Transfer,Local Supermarket
+T2025613,2024-02-25,164.26,Personal,Shopping,Online Transfer,Planet Fitness
+T2026408,2024-02-25,65.15,Food,Delivery,Online Transfer,Downtown Diner
+T2025727,2024-02-26,55.29,Other,Gifts,Credit Card,Misc
+T2025779,2024-02-27,43.73,Personal,Gym,Debit Card,H&M
+T2025659,2024-02-27,1297.22,Housing,Utilities,Cash,State Farm
+T2026364,2024-02-27,34.84,Transport,Gas,Online Transfer,Uber
+T2026243,2024-02-28,99.1,Other,Gifts,Credit Card,Gifts.com
+T2026492,2024-02-28,133.25,Food,Dining Out,Debit Card,Starbucks
+T2025465,2024-02-28,58.75,Food,Groceries,Debit Card,Downtown Diner
+T2025713,2024-02-29,181.06,Personal,Subscription,Cash,Netflix
+T2025153,2024-03-01,1502.44,Housing,Rent,Online Transfer,City Power
+T2025409,2024-03-01,57.96,Food,Delivery,Cash,Downtown Diner
+T2025905,2024-03-02,16.33,Other,Health,Credit Card,Gifts.com
+T2025043,2024-03-02,66.07,Food,Coffee,Cash,Downtown Diner
+T2025588,2024-03-03,1713.35,Housing,Insurance,Debit Card,State Farm
+T2026302,2024-03-03,711.83,Housing,Utilities,Cash,State Farm
+T2025467,2024-03-05,38.68,Transport,Public Transit,Credit Card,Lyft
+T2025353,2024-03-05,112.08,Personal,Entertainment,Credit Card,Amazon
+T2025670,2024-03-06,112.35,Personal,Shopping,Credit Card,Planet Fitness
+T2025021,2024-03-08,18.41,Transport,Public Transit,Cash,Metro
+T2025496,2024-03-08,67.69,Transport,Taxi/Rideshare,Debit Card,Shell
+T2026047,2024-03-09,41.54,Transport,Gas,Cash,Shell
+T2025684,2024-03-09,61.82,Personal,Shopping,Debit Card,Planet Fitness
+T2026168,2024-03-09,986.48,Housing,Utilities,Credit Card,Landlord
+T2025389,2024-03-10,146.88,Personal,Shopping,Credit Card,H&M
+T2026151,2024-03-11,1510.82,Housing,Insurance,Debit Card,City Power
+T2025461,2024-03-12,150.92,Personal,Entertainment,Cash,H&M
+T2025920,2024-03-13,104.34,Personal,Subscription,Credit Card,Netflix
+T2025372,2024-03-14,63.39,Transport,Public Transit,Credit Card,Uber
+T2025751,2024-03-15,15.38,Other,Miscellaneous,Debit Card,CVS
+T2025369,2024-03-15,149.97,Personal,Shopping,Credit Card,H&M
+T2025007,2024-03-16,96.53,Food,Delivery,Debit Card,Downtown Diner
+T2025088,2024-03-18,52.24,Other,Miscellaneous,Credit Card,Misc
+T2026064,2024-03-19,198.96,Personal,Shopping,Credit Card,H&M
+T2026207,2024-03-20,119.67,Personal,Subscription,Cash,Netflix
+T2026170,2024-03-21,201.85,Personal,Gym,Online Transfer,Netflix
+T2025084,2024-03-21,1607.16,Housing,Utilities,Credit Card,Landlord
+T2025534,2024-03-24,119.2,Food,Coffee,Debit Card,Local Supermarket
+T2025835,2024-03-24,66.57,Food,Delivery,Debit Card,Starbucks
+T2025382,2024-03-26,65.42,Transport,Taxi/Rideshare,Cash,Lyft
+T2026351,2024-03-27,45.36,Transport,Public Transit,Credit Card,Lyft
+T2026175,2024-03-27,169.68,Personal,Entertainment,Online Transfer,Planet Fitness
+T2025597,2024-03-28,97.5,Food,Groceries,Credit Card,Downtown Diner
+T2026483,2024-03-28,97.84,Other,Gifts,Online Transfer,Gifts.com
+T2025108,2024-03-29,59.59,Personal,Subscription,Credit Card,Amazon
+T2025269,2024-03-29,69.76,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2026298,2024-03-29,125.05,Personal,Gym,Credit Card,Planet Fitness
+T2025459,2024-03-29,151.88,Personal,Entertainment,Debit Card,H&M
+T2026098,2024-03-30,51.17,Food,Dining Out,Debit Card,Downtown Diner
+T2026451,2024-03-30,62.11,Transport,Taxi/Rideshare,Debit Card,Shell
+T2025564,2024-03-31,131.42,Food,Coffee,Credit Card,Downtown Diner
+T2026276,2024-03-31,65.4,Personal,Shopping,Credit Card,Amazon
+T2025357,2024-04-01,1459.0,Housing,Rent,Online Transfer,State Farm
+T2025695,2024-04-01,35.98,Personal,Entertainment,Online Transfer,Amazon
+T2026426,2024-04-01,11.56,Other,Gifts,Online Transfer,Misc
+T2026411,2024-04-03,151.53,Personal,Entertainment,Cash,H&M
+T2025428,2024-04-03,1128.91,Housing,Utilities,Online Transfer,Landlord
+T2025500,2024-04-05,64.45,Transport,Public Transit,Online Transfer,Metro
+T2025284,2024-04-05,31.05,Other,Gifts,Online Transfer,Gifts.com
+T2025066,2024-04-06,68.66,Other,Miscellaneous,Credit Card,CVS
+T2025245,2024-04-06,65.94,Other,Gifts,Cash,CVS
+T2025062,2024-04-07,129.1,Personal,Shopping,Online Transfer,Amazon
+T2025092,2024-04-08,1684.41,Housing,Insurance,Online Transfer,City Power
+T2025819,2024-04-08,45.64,Personal,Shopping,Debit Card,Netflix
+T2025585,2024-04-08,95.26,Personal,Gym,Cash,Netflix
+T2026094,2024-04-10,1806.26,Housing,Insurance,Credit Card,Landlord
+T2025191,2024-04-11,35.71,Personal,Gym,Cash,Amazon
+T2025673,2024-04-11,164.23,Personal,Subscription,Cash,Planet Fitness
+T2025966,2024-04-11,185.72,Personal,Entertainment,Debit Card,Amazon
+T2026379,2024-04-12,66.67,Transport,Taxi/Rideshare,Cash,Metro
+T2025783,2024-04-12,111.85,Personal,Gym,Credit Card,H&M
+T2026015,2024-04-13,25.0,Transport,Public Transit,Online Transfer,Uber
+T2025701,2024-04-14,19.1,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2025124,2024-04-14,107.13,Food,Dining Out,Online Transfer,Starbucks
+T2025235,2024-04-14,14.74,Transport,Public Transit,Debit Card,Uber
+T2026430,2024-04-14,76.28,Other,Miscellaneous,Debit Card,CVS
+T2025198,2024-04-15,17.94,Food,Coffee,Debit Card,Uber Eats
+T2025949,2024-04-16,41.38,Transport,Gas,Online Transfer,Uber
+T2025743,2024-04-17,40.9,Personal,Shopping,Debit Card,Planet Fitness
+T2026240,2024-04-17,80.28,Food,Groceries,Debit Card,Starbucks
+T2026113,2024-04-18,93.63,Other,Miscellaneous,Credit Card,CVS
+T2026076,2024-04-19,130.52,Personal,Subscription,Credit Card,Planet Fitness
+T2025437,2024-04-20,63.26,Food,Coffee,Credit Card,Downtown Diner
+T2026122,2024-04-20,820.12,Housing,Utilities,Credit Card,State Farm
+T2025168,2024-04-21,27.24,Transport,Taxi/Rideshare,Credit Card,Metro
+T2025248,2024-04-22,65.19,Transport,Gas,Credit Card,Shell
+T2025878,2024-04-22,28.95,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2026453,2024-04-22,118.13,Personal,Subscription,Cash,Planet Fitness
+T2025167,2024-04-22,22.54,Personal,Gym,Debit Card,H&M
+T2025302,2024-04-22,13.05,Food,Dining Out,Debit Card,Uber Eats
+T2025714,2024-04-22,224.33,Personal,Entertainment,Debit Card,Netflix
+T2025480,2024-04-23,199.64,Personal,Shopping,Online Transfer,Planet Fitness
+T2025989,2024-04-23,50.06,Transport,Gas,Credit Card,Uber
+T2025365,2024-04-23,1119.15,Housing,Insurance,Credit Card,City Power
+T2025181,2024-04-23,1239.6,Housing,Utilities,Credit Card,State Farm
+T2026089,2024-04-24,1306.87,Housing,Insurance,Debit Card,Landlord
+T2026120,2024-04-24,147.85,Personal,Entertainment,Credit Card,Planet Fitness
+T2025705,2024-04-24,36.8,Personal,Shopping,Cash,Netflix
+T2026313,2024-04-25,34.85,Transport,Gas,Cash,Lyft
+T2025566,2024-04-25,79.19,Other,Gifts,Debit Card,CVS
+T2026290,2024-04-25,45.68,Personal,Shopping,Online Transfer,Amazon
+T2025378,2024-04-25,79.9,Food,Delivery,Credit Card,Local Supermarket
+T2026342,2024-04-26,72.86,Personal,Subscription,Debit Card,Amazon
+T2025938,2024-04-27,65.2,Other,Gifts,Online Transfer,Misc
+T2025646,2024-04-27,118.81,Food,Groceries,Debit Card,Downtown Diner
+T2025986,2024-04-28,1383.54,Housing,Utilities,Online Transfer,Landlord
+T2025879,2024-04-28,57.83,Transport,Public Transit,Debit Card,Lyft
+T2025634,2024-04-28,48.08,Other,Gifts,Cash,Misc
+T2026385,2024-04-28,1853.61,Housing,Insurance,Cash,City Power
+T2025710,2024-04-29,131.91,Food,Dining Out,Credit Card,Downtown Diner
+T2025836,2024-05-01,105.47,Personal,Shopping,Online Transfer,Planet Fitness
+T2025158,2024-05-01,1508.66,Housing,Rent,Debit Card,City Power
+T2026431,2024-05-01,65.71,Other,Miscellaneous,Credit Card,Gifts.com
+T2026470,2024-05-02,11.65,Transport,Taxi/Rideshare,Online Transfer,Shell
+T2025334,2024-05-02,24.64,Transport,Gas,Cash,Metro
+T2026495,2024-05-03,55.37,Transport,Public Transit,Credit Card,Uber
+T2025032,2024-05-03,25.29,Transport,Taxi/Rideshare,Debit Card,Shell
+T2025816,2024-05-04,1637.86,Housing,Insurance,Credit Card,State Farm
+T2025275,2024-05-05,77.49,Other,Health,Credit Card,CVS
+T2025632,2024-05-05,139.65,Food,Groceries,Cash,Starbucks
+T2025933,2024-05-06,111.22,Food,Delivery,Online Transfer,Downtown Diner
+T2026104,2024-05-06,46.59,Transport,Gas,Debit Card,Lyft
+T2025266,2024-05-06,144.46,Personal,Shopping,Credit Card,Planet Fitness
+T2025481,2024-05-07,30.25,Food,Delivery,Credit Card,Uber Eats
+T2025795,2024-05-07,632.18,Housing,Insurance,Debit Card,Landlord
+T2025004,2024-05-07,68.19,Food,Dining Out,Credit Card,Local Supermarket
+T2025763,2024-05-07,46.33,Transport,Public Transit,Cash,Uber
+T2026315,2024-05-08,1318.24,Housing,Utilities,Debit Card,State Farm
+T2025202,2024-05-08,32.6,Transport,Public Transit,Debit Card,Uber
+T2025165,2024-05-09,51.34,Other,Health,Cash,Misc
+T2025193,2024-05-10,218.87,Personal,Gym,Debit Card,Planet Fitness
+T2025515,2024-05-10,712.12,Housing,Utilities,Online Transfer,State Farm
+T2025053,2024-05-10,49.76,Personal,Subscription,Debit Card,Amazon
+T2026437,2024-05-10,82.58,Food,Dining Out,Online Transfer,Local Supermarket
+T2025891,2024-05-10,106.59,Personal,Shopping,Debit Card,H&M
+T2025386,2024-05-12,18.39,Personal,Gym,Online Transfer,Netflix
+T2026371,2024-05-13,40.91,Transport,Public Transit,Online Transfer,Metro
+T2025962,2024-05-14,125.2,Food,Coffee,Cash,Starbucks
+T2026118,2024-05-14,853.58,Housing,Insurance,Online Transfer,State Farm
+T2026434,2024-05-15,54.58,Personal,Gym,Cash,Planet Fitness
+T2025360,2024-05-15,51.54,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2025071,2024-05-16,83.69,Personal,Gym,Debit Card,H&M
+T2025264,2024-05-17,49.61,Other,Miscellaneous,Cash,CVS
+T2025109,2024-05-18,103.07,Food,Dining Out,Credit Card,Downtown Diner
+T2026165,2024-05-18,223.64,Personal,Entertainment,Debit Card,Planet Fitness
+T2025222,2024-05-20,1278.74,Housing,Utilities,Credit Card,Landlord
+T2026479,2024-05-20,14.8,Transport,Public Transit,Debit Card,Metro
+T2025643,2024-05-21,59.4,Other,Miscellaneous,Cash,Misc
+T2026287,2024-05-21,29.35,Food,Delivery,Debit Card,Downtown Diner
+T2025649,2024-05-22,99.45,Other,Gifts,Debit Card,Gifts.com
+T2025006,2024-05-23,136.2,Food,Groceries,Credit Card,Downtown Diner
+T2026091,2024-05-24,36.23,Personal,Subscription,Cash,Netflix
+T2025959,2024-05-25,35.26,Transport,Public Transit,Online Transfer,Lyft
+T2025491,2024-05-26,76.74,Other,Miscellaneous,Credit Card,Misc
+T2025801,2024-05-27,106.11,Food,Delivery,Debit Card,Uber Eats
+T2025011,2024-05-27,61.24,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2025026,2024-05-27,142.42,Food,Dining Out,Online Transfer,Local Supermarket
+T2026061,2024-05-29,184.01,Personal,Gym,Credit Card,Netflix
+T2025947,2024-05-29,115.13,Food,Delivery,Credit Card,Starbucks
+T2026286,2024-05-31,70.02,Food,Groceries,Cash,Starbucks
+T2026069,2024-05-31,100.3,Food,Dining Out,Credit Card,Local Supermarket
+T2026223,2024-05-31,1806.33,Housing,Utilities,Online Transfer,City Power
+T2025432,2024-05-31,122.74,Food,Delivery,Credit Card,Uber Eats
+T2025293,2024-06-01,1486.85,Housing,Rent,Online Transfer,State Farm
+T2025145,2024-06-01,1656.39,Housing,Insurance,Debit Card,City Power
+T2026154,2024-06-02,45.73,Other,Gifts,Debit Card,CVS
+T2026123,2024-06-03,108.45,Food,Coffee,Cash,Uber Eats
+T2025442,2024-06-03,26.08,Other,Health,Cash,Misc
+T2025469,2024-06-03,130.52,Personal,Entertainment,Debit Card,Amazon
+T2026459,2024-06-04,1115.66,Housing,Insurance,Debit Card,Landlord
+T2025395,2024-06-04,55.55,Transport,Public Transit,Debit Card,Lyft
+T2025484,2024-06-05,12.7,Food,Groceries,Online Transfer,Starbucks
+T2025185,2024-06-06,40.25,Other,Gifts,Credit Card,Gifts.com
+T2026121,2024-06-07,81.93,Personal,Entertainment,Online Transfer,Amazon
+T2026318,2024-06-07,73.74,Food,Groceries,Online Transfer,Downtown Diner
+T2025995,2024-06-08,20.47,Other,Miscellaneous,Online Transfer,Gifts.com
+T2025898,2024-06-08,118.02,Food,Delivery,Debit Card,Starbucks
+T2025954,2024-06-08,1637.08,Housing,Insurance,Credit Card,Landlord
+T2025522,2024-06-08,23.36,Transport,Public Transit,Online Transfer,Uber
+T2026163,2024-06-09,25.72,Other,Gifts,Online Transfer,CVS
+T2026337,2024-06-09,89.25,Food,Coffee,Online Transfer,Local Supermarket
+T2026433,2024-06-10,26.43,Transport,Taxi/Rideshare,Cash,Lyft
+T2026468,2024-06-11,23.66,Transport,Gas,Cash,Lyft
+T2025619,2024-06-11,79.17,Other,Gifts,Online Transfer,Misc
+T2025843,2024-06-11,1235.82,Housing,Insurance,Online Transfer,State Farm
+T2025156,2024-06-12,85.48,Other,Health,Debit Card,Gifts.com
+T2025750,2024-06-13,1204.67,Housing,Utilities,Online Transfer,State Farm
+T2025796,2024-06-13,233.37,Personal,Gym,Online Transfer,Planet Fitness
+T2025387,2024-06-13,87.09,Other,Miscellaneous,Cash,CVS
+T2025184,2024-06-14,91.74,Food,Dining Out,Credit Card,Local Supermarket
+T2025756,2024-06-14,38.41,Other,Health,Online Transfer,Misc
+T2026143,2024-06-15,76.91,Other,Health,Credit Card,Gifts.com
+T2025221,2024-06-16,15.72,Other,Gifts,Online Transfer,Misc
+T2025837,2024-06-16,215.36,Personal,Gym,Debit Card,Planet Fitness
+T2026265,2024-06-16,56.96,Transport,Public Transit,Cash,Uber
+T2026487,2024-06-17,47.88,Transport,Taxi/Rideshare,Debit Card,Metro
+T2026352,2024-06-17,48.15,Other,Miscellaneous,Cash,Misc
+T2025495,2024-06-17,117.22,Personal,Entertainment,Debit Card,H&M
+T2026194,2024-06-17,61.54,Transport,Gas,Cash,Shell
+T2026450,2024-06-18,36.02,Food,Groceries,Debit Card,Uber Eats
+T2026282,2024-06-19,66.58,Other,Miscellaneous,Debit Card,Gifts.com
+T2025839,2024-06-19,40.04,Other,Health,Cash,CVS
+T2026425,2024-06-20,35.26,Other,Miscellaneous,Cash,Misc
+T2025178,2024-06-20,65.41,Other,Health,Credit Card,CVS
+T2026285,2024-06-20,108.8,Personal,Subscription,Cash,Amazon
+T2025651,2024-06-20,1285.65,Housing,Insurance,Debit Card,City Power
+T2025554,2024-06-21,73.76,Food,Dining Out,Debit Card,Starbucks
+T2026424,2024-06-21,246.58,Personal,Subscription,Debit Card,Netflix
+T2025289,2024-06-21,140.82,Food,Coffee,Cash,Starbucks
+T2025373,2024-06-22,11.37,Transport,Taxi/Rideshare,Credit Card,Lyft
+T2025087,2024-06-22,86.57,Food,Delivery,Debit Card,Local Supermarket
+T2025240,2024-06-22,1164.23,Housing,Utilities,Debit Card,State Farm
+T2026202,2024-06-22,12.28,Transport,Public Transit,Online Transfer,Uber
+T2025715,2024-06-23,20.92,Transport,Taxi/Rideshare,Online Transfer,Uber
+T2025592,2024-06-24,81.32,Food,Dining Out,Cash,Uber Eats
+T2026253,2024-06-25,69.26,Transport,Public Transit,Online Transfer,Shell
+T2025430,2024-06-26,148.9,Food,Delivery,Debit Card,Starbucks
+T2025431,2024-06-26,23.51,Transport,Taxi/Rideshare,Cash,Shell
+T2026127,2024-06-27,562.39,Housing,Insurance,Credit Card,Landlord
+T2025521,2024-06-28,31.14,Other,Miscellaneous,Online Transfer,Misc
+T2025660,2024-06-28,101.66,Food,Groceries,Debit Card,Starbucks
+T2025228,2024-06-29,61.9,Food,Delivery,Debit Card,Local Supermarket
+T2026402,2024-06-29,26.56,Other,Miscellaneous,Credit Card,Misc
+T2026096,2024-06-30,50.03,Other,Gifts,Online Transfer,Misc
+T2025766,2024-07-01,91.65,Personal,Shopping,Cash,Netflix
+T2025827,2024-07-01,1762.01,Housing,Utilities,Online Transfer,City Power
+T2025241,2024-07-01,1527.31,Housing,Rent,Credit Card,Landlord
+T2025642,2024-07-01,120.79,Food,Groceries,Online Transfer,Downtown Diner
+T2026029,2024-07-01,64.09,Other,Gifts,Debit Card,Misc
+T2025213,2024-07-02,129.49,Food,Coffee,Cash,Uber Eats
+T2025094,2024-07-03,51.79,Other,Gifts,Credit Card,Gifts.com
+T2025731,2024-07-03,92.82,Food,Delivery,Debit Card,Local Supermarket
+T2025421,2024-07-03,32.43,Personal,Entertainment,Online Transfer,Amazon
+T2026010,2024-07-04,49.79,Food,Delivery,Cash,Uber Eats
+T2025638,2024-07-04,57.28,Other,Health,Credit Card,CVS
+T2025568,2024-07-05,228.43,Personal,Shopping,Credit Card,H&M
+T2025712,2024-07-05,29.2,Other,Miscellaneous,Online Transfer,Misc
+T2025799,2024-07-06,29.61,Transport,Gas,Credit Card,Uber
+T2025895,2024-07-07,15.45,Transport,Taxi/Rideshare,Credit Card,Metro
+T2025154,2024-07-07,12.19,Other,Miscellaneous,Online Transfer,Gifts.com
+T2026073,2024-07-11,11.5,Food,Coffee,Online Transfer,Downtown Diner
+T2025927,2024-07-11,28.89,Other,Gifts,Online Transfer,Misc
+T2025080,2024-07-11,927.28,Housing,Utilities,Cash,State Farm
+T2026190,2024-07-12,87.81,Other,Health,Credit Card,Gifts.com
+T2025985,2024-07-12,13.71,Transport,Public Transit,Online Transfer,Shell
+T2025589,2024-07-12,58.77,Food,Dining Out,Online Transfer,Uber Eats
+T2025086,2024-07-13,1222.36,Housing,Utilities,Credit Card,City Power
+T2025119,2024-07-14,41.77,Food,Groceries,Cash,Local Supermarket
+T2025044,2024-07-15,51.72,Other,Health,Cash,Misc
+T2025530,2024-07-15,96.55,Food,Groceries,Credit Card,Downtown Diner
+T2025143,2024-07-16,241.15,Personal,Subscription,Online Transfer,Planet Fitness
+T2026001,2024-07-17,57.5,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2025028,2024-07-17,77.42,Other,Gifts,Debit Card,Gifts.com
+T2025505,2024-07-17,40.57,Transport,Gas,Cash,Metro
+T2025817,2024-07-18,27.81,Transport,Taxi/Rideshare,Cash,Uber
+T2025477,2024-07-18,1888.32,Housing,Insurance,Debit Card,State Farm
+T2025760,2024-07-18,18.94,Other,Gifts,Debit Card,Gifts.com
+T2025274,2024-07-19,40.49,Food,Delivery,Debit Card,Starbucks
+T2026161,2024-07-19,12.84,Other,Health,Debit Card,CVS
+T2025110,2024-07-20,99.87,Other,Health,Online Transfer,Gifts.com
+T2025611,2024-07-20,654.19,Housing,Insurance,Cash,City Power
+T2025581,2024-07-20,35.87,Personal,Subscription,Debit Card,Planet Fitness
+T2026044,2024-07-21,80.38,Other,Miscellaneous,Online Transfer,CVS
+T2025861,2024-07-21,200.73,Personal,Subscription,Debit Card,Planet Fitness
+T2026115,2024-07-21,43.58,Personal,Gym,Debit Card,Planet Fitness
+T2025379,2024-07-22,75.04,Personal,Subscription,Debit Card,Planet Fitness
+T2026343,2024-07-22,30.0,Other,Miscellaneous,Credit Card,Gifts.com
+T2026153,2024-07-23,68.57,Other,Miscellaneous,Debit Card,Gifts.com
+T2025330,2024-07-24,986.39,Housing,Insurance,Credit Card,City Power
+T2025692,2024-07-25,127.98,Food,Coffee,Debit Card,Local Supermarket
+T2026297,2024-07-25,22.58,Personal,Subscription,Online Transfer,H&M
+T2025916,2024-07-25,8.99,Food,Dining Out,Debit Card,Local Supermarket
+T2025234,2024-07-27,51.03,Other,Miscellaneous,Credit Card,Gifts.com
+T2026397,2024-07-28,1529.1,Housing,Utilities,Online Transfer,State Farm
+T2025319,2024-07-28,13.4,Food,Delivery,Cash,Starbucks
+T2025411,2024-07-28,1216.2,Housing,Insurance,Credit Card,State Farm
+T2025514,2024-07-29,16.37,Transport,Taxi/Rideshare,Credit Card,Lyft
+T2025472,2024-07-30,928.46,Housing,Utilities,Debit Card,State Farm
+T2025557,2024-07-30,33.06,Food,Coffee,Cash,Starbucks
+T2026099,2024-07-31,38.21,Transport,Gas,Debit Card,Metro
+T2025798,2024-07-31,200.34,Personal,Subscription,Online Transfer,H&M
+T2025952,2024-08-01,98.5,Personal,Gym,Debit Card,Planet Fitness
+T2025020,2024-08-01,1459.2,Housing,Rent,Debit Card,Landlord
+T2025925,2024-08-03,56.79,Transport,Public Transit,Cash,Metro
+T2026370,2024-08-04,125.42,Personal,Entertainment,Cash,Amazon
+T2026438,2024-08-04,67.71,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2025260,2024-08-05,17.19,Food,Dining Out,Credit Card,Uber Eats
+T2026378,2024-08-05,98.73,Other,Health,Cash,CVS
+T2026401,2024-08-05,67.96,Personal,Subscription,Credit Card,Netflix
+T2025331,2024-08-06,98.87,Other,Health,Cash,Gifts.com
+T2025249,2024-08-06,13.57,Other,Gifts,Debit Card,Misc
+T2025225,2024-08-06,49.69,Food,Dining Out,Credit Card,Downtown Diner
+T2025610,2024-08-06,24.7,Transport,Public Transit,Debit Card,Shell
+T2026461,2024-08-07,81.41,Food,Delivery,Debit Card,Uber Eats
+T2026384,2024-08-07,48.79,Transport,Public Transit,Online Transfer,Metro
+T2025306,2024-08-08,10.49,Transport,Taxi/Rideshare,Debit Card,Shell
+T2026312,2024-08-08,30.39,Transport,Public Transit,Debit Card,Lyft
+T2026354,2024-08-08,10.17,Other,Gifts,Online Transfer,CVS
+T2026226,2024-08-09,27.8,Personal,Subscription,Debit Card,Netflix
+T2025163,2024-08-09,67.84,Other,Health,Credit Card,CVS
+T2025977,2024-08-09,31.7,Food,Dining Out,Debit Card,Local Supermarket
+T2026084,2024-08-09,32.05,Personal,Entertainment,Online Transfer,Netflix
+T2025561,2024-08-09,53.93,Transport,Public Transit,Cash,Lyft
+T2025926,2024-08-09,1790.16,Housing,Insurance,Cash,City Power
+T2025644,2024-08-10,52.43,Other,Miscellaneous,Credit Card,CVS
+T2025468,2024-08-10,1527.68,Housing,Utilities,Online Transfer,State Farm
+T2026236,2024-08-10,29.84,Food,Delivery,Cash,Downtown Diner
+T2025329,2024-08-11,25.4,Other,Gifts,Cash,Gifts.com
+T2025147,2024-08-11,715.98,Housing,Insurance,Credit Card,City Power
+T2025620,2024-08-11,29.2,Food,Coffee,Credit Card,Downtown Diner
+T2025051,2024-08-12,35.47,Transport,Public Transit,Debit Card,Shell
+T2026488,2024-08-12,79.55,Other,Miscellaneous,Cash,Misc
+T2026473,2024-08-13,61.25,Transport,Gas,Cash,Metro
+T2025767,2024-08-13,172.1,Personal,Shopping,Cash,Planet Fitness
+T2025841,2024-08-14,40.97,Other,Gifts,Online Transfer,Misc
+T2025507,2024-08-14,108.91,Personal,Subscription,Debit Card,Amazon
+T2026474,2024-08-15,137.92,Personal,Entertainment,Credit Card,Planet Fitness
+T2025623,2024-08-15,58.22,Transport,Gas,Cash,Lyft
+T2025236,2024-08-16,83.02,Other,Miscellaneous,Online Transfer,Misc
+T2026480,2024-08-16,104.07,Personal,Entertainment,Debit Card,H&M
+T2025065,2024-08-17,53.11,Transport,Gas,Online Transfer,Uber
+T2025789,2024-08-17,23.17,Transport,Taxi/Rideshare,Online Transfer,Uber
+T2025490,2024-08-17,71.08,Other,Miscellaneous,Online Transfer,Misc
+T2025631,2024-08-18,95.64,Other,Health,Online Transfer,Gifts.com
+T2025680,2024-08-18,122.77,Personal,Subscription,Debit Card,H&M
+T2025305,2024-08-20,179.7,Personal,Entertainment,Credit Card,H&M
+T2025030,2024-08-20,59.07,Other,Miscellaneous,Credit Card,CVS
+T2026033,2024-08-21,44.76,Other,Miscellaneous,Cash,Gifts.com
+T2025238,2024-08-21,61.4,Food,Groceries,Cash,Downtown Diner
+T2025612,2024-08-22,44.12,Other,Gifts,Online Transfer,CVS
+T2026035,2024-08-22,29.52,Food,Delivery,Online Transfer,Downtown Diner
+T2025823,2024-08-22,1891.17,Housing,Insurance,Cash,Landlord
+T2025285,2024-08-22,32.58,Other,Miscellaneous,Online Transfer,Misc
+T2025618,2024-08-23,217.92,Personal,Shopping,Debit Card,Netflix
+T2026174,2024-08-23,510.65,Housing,Insurance,Online Transfer,Landlord
+T2026133,2024-08-23,42.04,Food,Delivery,Credit Card,Starbucks
+T2025876,2024-08-24,27.93,Other,Health,Online Transfer,Gifts.com
+T2025764,2024-08-25,42.01,Transport,Public Transit,Online Transfer,Lyft
+T2025100,2024-08-26,24.48,Other,Gifts,Credit Card,CVS
+T2025587,2024-08-27,87.8,Food,Coffee,Online Transfer,Starbucks
+T2025095,2024-08-27,115.81,Personal,Gym,Debit Card,Planet Fitness
+T2025321,2024-08-30,23.22,Personal,Gym,Cash,Amazon
+T2026060,2024-08-31,42.96,Other,Health,Credit Card,Misc
+T2026445,2024-08-31,108.05,Personal,Entertainment,Online Transfer,Amazon
+T2025955,2024-08-31,143.99,Personal,Subscription,Credit Card,Netflix
+T2025105,2024-09-01,1548.37,Housing,Rent,Debit Card,State Farm
+T2025943,2024-09-01,1937.95,Housing,Insurance,Online Transfer,State Farm
+T2025397,2024-09-02,86.88,Other,Gifts,Debit Card,Misc
+T2025919,2024-09-02,686.48,Housing,Utilities,Online Transfer,City Power
+T2026188,2024-09-02,39.67,Transport,Public Transit,Credit Card,Metro
+T2025283,2024-09-02,169.13,Personal,Gym,Debit Card,H&M
+T2025041,2024-09-02,78.29,Other,Miscellaneous,Debit Card,Gifts.com
+T2025457,2024-09-02,46.2,Food,Coffee,Cash,Local Supermarket
+T2025061,2024-09-03,34.92,Personal,Shopping,Cash,Netflix
+T2026149,2024-09-03,5.43,Food,Groceries,Credit Card,Uber Eats
+T2025821,2024-09-03,7.44,Food,Dining Out,Debit Card,Downtown Diner
+T2025523,2024-09-03,56.75,Transport,Taxi/Rideshare,Online Transfer,Metro
+T2026400,2024-09-04,82.71,Other,Gifts,Credit Card,Misc
+T2025781,2024-09-05,43.85,Transport,Gas,Cash,Lyft
+T2025921,2024-09-05,1542.37,Housing,Utilities,Debit Card,City Power
+T2025832,2024-09-06,1290.6,Housing,Utilities,Cash,State Farm
+T2025653,2024-09-06,47.73,Transport,Gas,Online Transfer,Shell
+T2026303,2024-09-06,48.85,Other,Health,Credit Card,CVS
+T2025904,2024-09-08,82.67,Food,Groceries,Debit Card,Starbucks
+T2025159,2024-09-09,32.91,Transport,Taxi/Rideshare,Online Transfer,Shell
+T2025205,2024-09-10,56.08,Other,Miscellaneous,Debit Card,Gifts.com
+T2025704,2024-09-10,1152.09,Housing,Insurance,Credit Card,Landlord
+T2025047,2024-09-11,37.25,Transport,Gas,Online Transfer,Lyft
+T2025853,2024-09-11,34.4,Transport,Taxi/Rideshare,Debit Card,Uber
+T2026134,2024-09-11,1113.21,Housing,Utilities,Credit Card,City Power
+T2025115,2024-09-12,170.42,Personal,Entertainment,Cash,Amazon
+T2025359,2024-09-12,58.14,Other,Health,Credit Card,Gifts.com
+T2025144,2024-09-13,71.39,Other,Miscellaneous,Credit Card,CVS
+T2026135,2024-09-13,224.42,Personal,Gym,Debit Card,Planet Fitness
+T2025380,2024-09-14,99.55,Food,Coffee,Cash,Downtown Diner
+T2026013,2024-09-14,42.47,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2025871,2024-09-15,27.26,Transport,Public Transit,Online Transfer,Metro
+T2025859,2024-09-16,535.95,Housing,Insurance,Cash,Landlord
+T2025856,2024-09-17,135.83,Food,Groceries,Cash,Downtown Diner
+T2025893,2024-09-17,149.79,Food,Delivery,Online Transfer,Starbucks
+T2025558,2024-09-17,32.67,Other,Gifts,Cash,Misc
+T2025405,2024-09-18,79.86,Other,Miscellaneous,Cash,Misc
+T2025005,2024-09-18,44.19,Other,Gifts,Online Transfer,Misc
+T2026333,2024-09-19,1767.41,Housing,Utilities,Cash,State Farm
+T2025277,2024-09-19,46.71,Other,Gifts,Cash,Misc
+T2025316,2024-09-20,64.29,Food,Dining Out,Debit Card,Downtown Diner
+T2026410,2024-09-21,22.83,Transport,Taxi/Rideshare,Cash,Metro
+T2025422,2024-09-22,91.23,Other,Health,Online Transfer,CVS
+T2025748,2024-09-22,117.21,Personal,Subscription,Online Transfer,Amazon
+T2025089,2024-09-22,98.49,Food,Coffee,Cash,Local Supermarket
+T2025358,2024-09-22,118.29,Food,Dining Out,Cash,Local Supermarket
+T2025073,2024-09-23,19.08,Transport,Public Transit,Debit Card,Metro
+T2026027,2024-09-23,73.23,Food,Groceries,Debit Card,Starbucks
+T2025907,2024-09-23,149.25,Food,Dining Out,Debit Card,Local Supermarket
+T2025615,2024-09-24,712.63,Housing,Insurance,Online Transfer,State Farm
+T2026300,2024-09-25,58.07,Food,Dining Out,Debit Card,Local Supermarket
+T2025298,2024-09-25,77.11,Food,Groceries,Online Transfer,Downtown Diner
+T2026294,2024-09-26,62.98,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2025772,2024-09-27,605.02,Housing,Insurance,Online Transfer,Landlord
+T2025663,2024-09-27,129.58,Food,Delivery,Debit Card,Local Supermarket
+T2025501,2024-09-27,24.51,Other,Gifts,Cash,Misc
+T2026296,2024-09-27,96.87,Food,Dining Out,Online Transfer,Uber Eats
+T2026180,2024-09-29,196.9,Personal,Shopping,Online Transfer,Planet Fitness
+T2025324,2024-09-30,82.79,Other,Gifts,Credit Card,Gifts.com
+T2026380,2024-10-01,52.79,Other,Gifts,Credit Card,CVS
+T2025493,2024-10-01,95.7,Food,Coffee,Credit Card,Starbucks
+T2026406,2024-10-01,192.55,Personal,Subscription,Credit Card,H&M
+T2025045,2024-10-01,1601.01,Housing,Utilities,Cash,State Farm
+T2025999,2024-10-01,35.92,Transport,Gas,Online Transfer,Lyft
+T2025022,2024-10-01,1549.2,Housing,Rent,Cash,City Power
+T2025093,2024-10-01,66.25,Other,Miscellaneous,Debit Card,Gifts.com
+T2025052,2024-10-02,59.78,Transport,Public Transit,Online Transfer,Lyft
+T2025161,2024-10-03,18.03,Transport,Public Transit,Debit Card,Lyft
+T2025320,2024-10-03,1713.11,Housing,Insurance,Online Transfer,Landlord
+T2026059,2024-10-05,66.14,Other,Gifts,Credit Card,Gifts.com
+T2025884,2024-10-06,75.23,Other,Health,Online Transfer,Misc
+T2025038,2024-10-06,51.28,Transport,Taxi/Rideshare,Online Transfer,Shell
+T2025177,2024-10-07,872.17,Housing,Insurance,Credit Card,State Farm
+T2025487,2024-10-07,76.65,Personal,Subscription,Debit Card,Planet Fitness
+T2025462,2024-10-07,1682.13,Housing,Utilities,Credit Card,City Power
+T2026328,2024-10-08,41.54,Other,Gifts,Online Transfer,Misc
+T2025761,2024-10-09,210.53,Personal,Entertainment,Cash,Planet Fitness
+T2026353,2024-10-09,62.0,Transport,Public Transit,Cash,Shell
+T2026056,2024-10-09,146.12,Food,Delivery,Credit Card,Local Supermarket
+T2026258,2024-10-10,203.7,Personal,Entertainment,Online Transfer,Netflix
+T2025039,2024-10-10,31.03,Other,Gifts,Debit Card,CVS
+T2025752,2024-10-11,69.57,Transport,Gas,Online Transfer,Lyft
+T2026220,2024-10-12,15.48,Transport,Taxi/Rideshare,Credit Card,Uber
+T2025199,2024-10-13,121.57,Personal,Gym,Debit Card,H&M
+T2025538,2024-10-13,1080.87,Housing,Insurance,Cash,City Power
+T2025033,2024-10-13,124.82,Food,Dining Out,Online Transfer,Local Supermarket
+T2025035,2024-10-13,101.73,Personal,Subscription,Debit Card,Amazon
+T2025435,2024-10-14,72.64,Food,Coffee,Credit Card,Downtown Diner
+T2026011,2024-10-14,45.28,Transport,Taxi/Rideshare,Cash,Shell
+T2025636,2024-10-15,61.42,Other,Gifts,Online Transfer,Gifts.com
+T2026327,2024-10-15,15.32,Other,Health,Cash,CVS
+T2025666,2024-10-16,41.75,Food,Groceries,Debit Card,Starbucks
+T2025552,2024-10-16,66.66,Transport,Taxi/Rideshare,Debit Card,Lyft
+T2025529,2024-10-18,115.06,Personal,Shopping,Debit Card,H&M
+T2026108,2024-10-18,244.3,Personal,Entertainment,Credit Card,Planet Fitness
+T2025520,2024-10-18,28.71,Transport,Gas,Cash,Lyft
+T2025067,2024-10-19,91.22,Food,Delivery,Online Transfer,Local Supermarket
+T2026358,2024-10-20,50.81,Other,Gifts,Cash,Misc
+T2025689,2024-10-20,199.98,Personal,Subscription,Debit Card,Netflix
+T2026264,2024-10-23,91.99,Other,Miscellaneous,Debit Card,Misc
+T2025173,2024-10-25,131.57,Personal,Gym,Credit Card,Amazon
+T2025998,2024-10-27,20.45,Other,Miscellaneous,Cash,Misc
+T2025046,2024-10-27,60.33,Transport,Taxi/Rideshare,Online Transfer,Uber
+T2026232,2024-10-28,39.21,Other,Miscellaneous,Credit Card,Gifts.com
+T2025475,2024-10-29,82.51,Other,Miscellaneous,Credit Card,CVS
+T2025706,2024-10-29,51.6,Transport,Public Transit,Credit Card,Lyft
+T2025471,2024-10-31,570.99,Housing,Insurance,Online Transfer,State Farm
+T2025892,2024-10-31,187.78,Personal,Subscription,Credit Card,H&M
+T2025576,2024-10-31,95.5,Food,Coffee,Credit Card,Starbucks
+T2025060,2024-11-01,1451.26,Housing,Rent,Online Transfer,Landlord
+T2025655,2024-11-01,35.59,Transport,Gas,Debit Card,Uber
+T2025790,2024-11-02,1639.73,Housing,Insurance,Debit Card,State Farm
+T2025002,2024-11-02,23.11,Other,Health,Credit Card,Misc
+T2025220,2024-11-02,63.38,Food,Dining Out,Cash,Downtown Diner
+T2026273,2024-11-03,47.97,Transport,Gas,Debit Card,Shell
+T2025099,2024-11-03,1908.58,Housing,Utilities,Credit Card,Landlord
+T2026283,2024-11-03,56.8,Personal,Subscription,Online Transfer,H&M
+T2026489,2024-11-04,34.67,Transport,Gas,Debit Card,Shell
+T2026229,2024-11-05,115.01,Food,Dining Out,Cash,Starbucks
+T2025579,2024-11-06,798.37,Housing,Utilities,Credit Card,City Power
+T2025075,2024-11-06,76.39,Other,Miscellaneous,Debit Card,Misc
+T2025570,2024-11-07,31.4,Other,Gifts,Debit Card,Gifts.com
+T2025746,2024-11-07,50.2,Food,Delivery,Debit Card,Local Supermarket
+T2026208,2024-11-08,92.99,Food,Dining Out,Cash,Starbucks
+T2025270,2024-11-08,58.93,Personal,Subscription,Credit Card,H&M
+T2025300,2024-11-09,25.3,Food,Dining Out,Cash,Uber Eats
+T2025855,2024-11-10,98.63,Personal,Gym,Online Transfer,H&M
+T2025258,2024-11-14,53.04,Transport,Gas,Debit Card,Shell
+T2025545,2024-11-14,53.74,Other,Miscellaneous,Debit Card,CVS
+T2025688,2024-11-15,35.25,Other,Health,Online Transfer,Gifts.com
+T2026319,2024-11-16,62.17,Other,Gifts,Debit Card,Misc
+T2026045,2024-11-17,32.46,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2025406,2024-11-17,1738.66,Housing,Insurance,Online Transfer,City Power
+T2025160,2024-11-17,86.25,Other,Health,Debit Card,Misc
+T2025777,2024-11-17,32.83,Transport,Gas,Debit Card,Metro
+T2025136,2024-11-18,148.99,Personal,Gym,Cash,H&M
+T2026409,2024-11-18,113.13,Personal,Shopping,Online Transfer,H&M
+T2026311,2024-11-18,82.0,Other,Miscellaneous,Online Transfer,Gifts.com
+T2025456,2024-11-19,99.79,Food,Groceries,Cash,Downtown Diner
+T2025216,2024-11-19,31.96,Other,Health,Debit Card,CVS
+T2025617,2024-11-20,114.09,Food,Delivery,Cash,Starbucks
+T2026230,2024-11-20,25.57,Transport,Taxi/Rideshare,Credit Card,Uber
+T2025082,2024-11-20,88.21,Other,Health,Credit Card,Misc
+T2025945,2024-11-21,120.97,Food,Coffee,Credit Card,Downtown Diner
+T2025831,2024-11-21,52.96,Transport,Gas,Cash,Uber
+T2025137,2024-11-23,94.29,Personal,Subscription,Credit Card,Planet Fitness
+T2026201,2024-11-23,109.57,Food,Delivery,Debit Card,Local Supermarket
+T2025708,2024-11-23,77.69,Other,Miscellaneous,Cash,Misc
+T2025294,2024-11-24,59.48,Transport,Gas,Online Transfer,Metro
+T2025946,2024-11-25,17.56,Food,Delivery,Debit Card,Starbucks
+T2025195,2024-11-26,22.55,Transport,Gas,Credit Card,Metro
+T2026332,2024-11-26,29.91,Other,Health,Cash,Misc
+T2026421,2024-11-27,41.88,Food,Coffee,Credit Card,Local Supermarket
+T2025345,2024-11-27,80.55,Personal,Subscription,Credit Card,Amazon
+T2026263,2024-11-27,30.73,Other,Miscellaneous,Online Transfer,CVS
+T2025255,2024-11-28,26.32,Transport,Taxi/Rideshare,Online Transfer,Lyft
+T2026325,2024-11-28,508.23,Housing,Insurance,Online Transfer,State Farm
+T2025448,2024-11-29,1453.69,Housing,Insurance,Debit Card,State Farm
+T2025139,2024-11-29,95.95,Personal,Subscription,Credit Card,Netflix
+T2025390,2024-11-29,71.54,Other,Health,Cash,Misc
+T2025128,2024-11-30,155.48,Personal,Subscription,Debit Card,Planet Fitness
+T2025024,2024-11-30,22.41,Other,Health,Debit Card,Gifts.com
+T2026299,2024-11-30,934.2,Housing,Insurance,Credit Card,State Farm
+T2025120,2024-12-01,1474.7,Housing,Rent,Credit Card,State Farm
+T2025135,2024-12-01,1045.4,Housing,Utilities,Online Transfer,State Farm
+T2025682,2024-12-01,54.89,Other,Gifts,Credit Card,Gifts.com
+T2025667,2024-12-01,68.24,Personal,Subscription,Cash,Planet Fitness
+T2026293,2024-12-01,1042.72,Housing,Insurance,Debit Card,State Farm
+T2026018,2024-12-02,130.42,Personal,Subscription,Credit Card,Amazon
+T2025519,2024-12-03,137.96,Food,Delivery,Online Transfer,Uber Eats
+T2025771,2024-12-04,34.92,Personal,Subscription,Online Transfer,Planet Fitness
+T2025001,2024-12-06,53.16,Other,Gifts,Cash,Gifts.com
+T2026386,2024-12-06,200.71,Personal,Gym,Credit Card,Amazon
+T2026247,2024-12-06,39.54,Other,Health,Online Transfer,CVS
+T2026375,2024-12-06,1277.19,Housing,Insurance,Cash,City Power
+T2026460,2024-12-06,88.18,Food,Delivery,Cash,Downtown Diner
+T2025295,2024-12-07,86.94,Other,Gifts,Credit Card,CVS
+T2026428,2024-12-07,69.57,Transport,Gas,Cash,Lyft
+T2025672,2024-12-07,39.34,Food,Dining Out,Online Transfer,Uber Eats
+T2025598,2024-12-07,1053.75,Housing,Utilities,Online Transfer,State Farm
+T2026363,2024-12-07,16.03,Other,Health,Online Transfer,Gifts.com
+T2025732,2024-12-09,37.35,Transport,Gas,Credit Card,Metro
+T2026251,2024-12-10,18.21,Transport,Gas,Cash,Metro
+T2026279,2024-12-11,61.64,Personal,Gym,Cash,Amazon
+T2026083,2024-12-11,38.07,Transport,Public Transit,Online Transfer,Shell
+T2026469,2024-12-12,67.88,Personal,Entertainment,Cash,Amazon
+T2026376,2024-12-13,48.73,Personal,Gym,Debit Card,Netflix
+T2026019,2024-12-14,57.33,Transport,Gas,Debit Card,Shell
+T2026081,2024-12-15,67.17,Personal,Gym,Credit Card,Planet Fitness
+T2025941,2024-12-15,30.3,Other,Miscellaneous,Online Transfer,Misc
+T2025224,2024-12-16,53.64,Other,Health,Credit Card,Misc
+T2026284,2024-12-17,243.77,Personal,Gym,Cash,Planet Fitness
+T2025640,2024-12-17,44.25,Transport,Taxi/Rideshare,Online Transfer,Metro
+T2025657,2024-12-18,56.77,Food,Groceries,Online Transfer,Local Supermarket
+T2025188,2024-12-18,575.46,Housing,Utilities,Debit Card,State Farm
+T2025309,2024-12-19,1736.56,Housing,Insurance,Cash,State Farm
+T2026394,2024-12-19,91.35,Other,Health,Debit Card,Misc
+T2025023,2024-12-19,26.52,Other,Gifts,Online Transfer,CVS
+T2025869,2024-12-19,14.11,Transport,Gas,Online Transfer,Lyft
+T2025315,2024-12-20,11.4,Transport,Public Transit,Credit Card,Shell
+T2025729,2024-12-20,1382.7,Housing,Insurance,Online Transfer,City Power
+T2025699,2024-12-22,87.93,Other,Gifts,Online Transfer,CVS
+T2025992,2024-12-23,96.02,Other,Health,Cash,CVS
+T2026339,2024-12-23,69.05,Food,Dining Out,Online Transfer,Local Supermarket
+T2025842,2024-12-23,144.68,Personal,Entertainment,Debit Card,H&M
+T2025922,2024-12-24,131.84,Food,Delivery,Credit Card,Local Supermarket
+T2025097,2024-12-24,27.49,Other,Miscellaneous,Online Transfer,Gifts.com
+T2026356,2024-12-24,23.93,Food,Coffee,Online Transfer,Local Supermarket
+T2026347,2024-12-25,152.47,Personal,Gym,Debit Card,Netflix
+T2025865,2024-12-27,51.55,Personal,Subscription,Credit Card,Planet Fitness
+T2026388,2024-12-27,892.88,Housing,Insurance,Credit Card,State Farm
+T2025059,2024-12-27,84.27,Other,Miscellaneous,Online Transfer,Misc
+T2026369,2024-12-27,232.29,Personal,Shopping,Online Transfer,H&M
+T2025539,2024-12-28,52.4,Transport,Gas,Cash,Uber
+T2026271,2024-12-28,162.23,Personal,Subscription,Cash,Amazon
+T2026381,2024-12-28,124.63,Food,Dining Out,Credit Card,Local Supermarket
+T2025809,2024-12-29,1076.15,Housing,Utilities,Debit Card,Landlord
+T2026204,2024-12-29,209.83,Personal,Gym,Credit Card,Planet Fitness
+T2025338,2024-12-29,13.98,Other,Gifts,Online Transfer,Gifts.com
+T2025116,2024-12-30,33.88,Transport,Taxi/Rideshare,Online Transfer,Shell
+T2025229,2024-12-30,1011.91,Housing,Utilities,Cash,State Farm
+T2026478,2024-12-30,22.54,Other,Miscellaneous,Cash,Gifts.com
+T2025814,2024-12-30,27.83,Other,Health,Credit Card,CVS
+T2026308,2024-12-31,23.71,Transport,Public Transit,Cash,Lyft
+T2025362,2024-12-31,141.86,Food,Delivery,Credit Card,Uber Eats
